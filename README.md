@@ -38,6 +38,19 @@ Design Choices:
 Wireframes:
 
 [Link to Wireframes](https://balsamiq.cloud/sxdf4ut/pme0xi6)
+- Homepage on phone, table and desktop size
+![EFAA545A-7B3F-404F-B06C-B98051F5E24F](https://github.com/user-attachments/assets/5871b8e4-9870-4c5f-9c50-c97180e61da3)
+- All Episodes page on phone, tablet and desktop
+![3A57A7E9-DACC-49B8-8188-EB1D5F84177A](https://github.com/user-attachments/assets/4332f601-09d3-4255-b3f9-861e0832ab49)
+- Sponsorship site on phone, tablet and desktop
+![7E3B0278-937D-46A8-B3D2-21B8622287CB](https://github.com/user-attachments/assets/2624a8ba-5ce6-457b-af4e-a62589c60d58)
+- Success page on phone, tablet and desktop
+![4124816C-AA6F-41AB-B280-E1A321D3B1BA](https://github.com/user-attachments/assets/6a49c776-7dc0-4591-8bff-1cf1dea82dee)
+
+
+
+
+
 
 2. **Features**
 
