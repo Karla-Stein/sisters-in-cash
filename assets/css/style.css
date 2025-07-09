@@ -1,0 +1,28 @@
+/* Google fonts import */
+@import url('https://fonts.googleapis.com/css2?family=Chivo:ital,wght@0,100..900;1,100..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+/* CSS variables */
+:root {
+  --primary-font: "Chivo", sans-serif;
+  --secondary-font: "Inter", sans-serif;
+  --primary-color: #482e50;
+  --secondary-color: #9a76b4;
+  --highlight-color: #6d9bab;
+  --highlight-color-light: #e0f4f5;
+}
+
+/* Global styles */
+body {
+  font-family: var(--primary-font);
+  padding-top: 57.64px; /* pushes the top of the header down under fixed navbar*/
+}
+
+
+/* Navbar */
+#navbar{
+    background-color: var(--primary-color);
+    color: var(--highlight-color-light);
+}
+
+#dropdown{
+    background-color: var(--primary-color);
+}
