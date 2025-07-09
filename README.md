@@ -60,6 +60,12 @@ Features Left to Implement:
 
 3. **Technologies Used**
 4. **Testing**
+*Issues and solution*
+I updated and commited the ReadMe file remotely, which stopped me from commiting changes that were done locally. I used Perplexity 
+to find a solution. After merging branches with command 'git config pull.rebase false
+git pull' the issue was resolved.
+
+
 5. **Deployment**
 
 How to Run This Project Locally:
