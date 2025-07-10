@@ -25,3 +25,10 @@ body {
 #dropdown{
     background-color: var(--primary-color);
 }
+
+/* Footer / Follow us */
+#follow {
+  background-color: var(--primary-color);
+  color: white;
+  padding-bottom: 3rem;
+}
