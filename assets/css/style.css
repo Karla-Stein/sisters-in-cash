@@ -4,10 +4,10 @@
 :root {
   --primary-font: "Chivo", sans-serif;
   --secondary-font: "Inter", sans-serif;
-  --primary-color: #482e50;
-  --secondary-color: #9a76b4;
-  --highlight-color: #6d9bab;
-  --highlight-color-light: #e0f4f5;
+  --primary-color: #603821;
+  --secondary-color: #f5a26c;
+  --highlight-color: #d36c8b;
+  --highlight-color-light: #fbe2a4;
 }
 
 /* Global styles */
@@ -20,7 +20,6 @@ body {
 /* Navbar */
 #navbar{
     background-color: var(--primary-color);
-    color: var(--highlight-color-light);
 }
 
 #dropdown{
