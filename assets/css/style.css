@@ -4,19 +4,47 @@
 :root {
   --primary-font: "Chivo", sans-serif;
   --secondary-font: "Inter", sans-serif;
-  --primary-color: #603821;
-  --secondary-color: #f5a26c;
-  --highlight-color: #d36c8b;
-  --highlight-color-light: #fbe2a4;
+  --primary-color: #5a3c5a;
+  --secondary-color: #b4727f;
+  --highlight-color: #E1B8E7;
+  --highlight-color-light: #ead6d3;
 }
 
 /* Global styles */
 body {
-  font-family: var(--primary-font);
+  font-family: var(--secondary-font);
   padding-top: 57.64px; /* pushes the top of the header down under fixed navbar*/
+  padding: 0;
+  margin-top: 54px;
+
+}
+
+h1,
+h2{
+    font-family: var(--primary-font);
+    color: black;
 }
 
 
+.sub-heading-color{
+    color: var(--secondary-color);
+}
+
+.section {
+  padding-top: 4rem; /* Prevent navbar overlap*/
+}
+
+/* Buttons */
+.custom-button-outline {
+  padding: 7px 25px;
+  border: 3px solid var(--primary-color);
+  color: var(--primary-color);
+}
+.custom-button-outline:hover {
+    border: 3px solid var(--primary-color);
+  background-color: var(--primary-color);
+  color: white;
+}
 /* Navbar */
 #navbar{
     background-color: var(--primary-color);
@@ -26,9 +54,36 @@ body {
     background-color: var(--primary-color);
 }
 
+/* Header */
+
+/* Header/ Hero */
+#hero{
+  height: 30vh;
+  width: 100%;
+  background: url("../images-2/matt-botsford-OKLqGsCT8qs-unsplash.jpg") no-repeat center center/cover;
+  position: relative;
+}
+
+
+/* Main */
+/* Main / Community */
+.bg-highlight{
+    background-color: var(--highlight-color-light);
+    padding: 20px;
+}
+
+/* Main / Events */
+#events .table *{
+    background-color:  var(--highlight-color-light);
+    color: black;
+}
+
 /* Footer / Follow us */
 #follow {
   background-color: var(--primary-color);
   color: white;
   padding-bottom: 3rem;
 }
+
+
+  
