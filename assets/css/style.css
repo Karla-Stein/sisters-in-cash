@@ -85,5 +85,30 @@ h2{
   padding-bottom: 3rem;
 }
 
+#follow h2{
+    color: white;
+    font-family: var(--secondary-font);
+    margin-bottom: 20px;
+    margin-top: 0;
+}
 
-  
+
+#follow i{
+    color: white;
+    font-size: 1rem;
+    margin: 20px 10px;
+    transition: color 0.3s ease-in-out;
+}
+
+#follow i:hover {
+  color: var(--secondary-color);
+}
+
+  /*Media Query  */
+  /* Media devices */
+  /* @media screen and (max-width: 320px){
+   body{
+   font: smaller;
+    
+  }
+} */
