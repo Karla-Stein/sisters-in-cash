@@ -36,6 +36,7 @@ h2{
 
 /* Buttons */
 .custom-button-outline {
+    width: 200px;
   padding: 7px 25px;
   border: 3px solid var(--primary-color);
   color: var(--primary-color);
@@ -72,6 +73,14 @@ h2{
     padding: 20px;
 }
 
+#community img{
+    height: 150px;
+}
+
+#community p{
+    margin: 8px;
+}
+
 /* Main / Events */
 #events .table *{
     background-color:  var(--highlight-color-light);
@@ -106,9 +115,10 @@ h2{
 
   /*Media Query  */
   /* Media devices */
-  /* @media screen and (max-width: 320px){
-   body{
-   font: smaller;
-    
+  @media screen and (min-width: 992px){
+  #logo{
+  margin-top: 28px
   }
-} */
+  
+
+}
