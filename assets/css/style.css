@@ -87,6 +87,12 @@ h2{
     color: black;
 }
 
+#media #yt-video{
+    height: 152px;
+    border-radius: 12px;
+    margin-left: 50px;
+}
+
 /* Footer / Follow us */
 #follow {
   background-color: var(--primary-color);
@@ -119,6 +125,6 @@ h2{
   #logo{
   margin-top: 28px
   }
-  
-
 }
+
+ 
