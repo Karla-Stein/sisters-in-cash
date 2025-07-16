@@ -425,9 +425,14 @@
         </div>
       </div>
     </footer>
-
+     <!-- REFACTORING PODCASTS INTO JAVASCRIPT WITH ASSISSTANCE FROM MENTOR TIM NELSON USING DRY CODE -->
     <!-- Bootstrap JS + Popper -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js"></script>
+     <!-- Font awesome kit -->
+    <script
+      src="https://kit.fontawesome.com/75c27a2f98.js"
+      crossorigin="anonymous"
+    ></script>
 
     <!-- Data & Logic -->
     <script>
@@ -1803,13 +1808,13 @@
           // Section header
           const contributorHeader = document.createElement("h2");
           contributorHeader.id = slug;
-          contributorHeader.className = "mt-5";
+          contributorHeader.className = "mt-5 text-center";
           contributorHeader.textContent = contributor;
           podcastList.appendChild(contributorHeader);
           // Episode row
           const episodeRow = document.createElement("div");
           episodeRow.className =
-            "row row-cols-1 row-cols-md-2 row-cols-lg-3 g-3 mb-4";
+            "row row-cols-1 row-cols-md-2 row-cols-lg-3 g-3 mb-4 justify-content-center";
           contributorEpisodes.forEach((episode) => {
             const episodeCol = document.createElement("div");
             episodeCol.className = "col";
