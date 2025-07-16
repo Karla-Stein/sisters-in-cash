@@ -54,6 +54,9 @@ h2{
 
 #dropdown{
     background-color: var(--primary-color);
+    height: 50vh;
+    /* asked perplexity */
+    overflow-y: auto; 
 }
 
 /* Header */
