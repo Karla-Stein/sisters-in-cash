@@ -22,7 +22,13 @@ body {
 h1,
 h2{
     font-family: var(--primary-font);
-    color: black;
+}
+
+h1{
+    /* shadow code perplexity output */
+    text-shadow: 0 0 10px white,  0 0 20px var(--highlight-color);
+    color: var(--primary-color);
+    
 }
 
 
@@ -89,17 +95,24 @@ h2{
     margin: 8px;
 }
 
+/* Main / Media */
+
+#media iframe{
+    width: 100%;
+}
+
+/* #media #yt-video{
+    height: 152px;
+    border-radius: 12px;
+    margin-left: 50px;
+} */
+
 /* Main / Events */
 #events .table *{
     background-color:  var(--highlight-color-light);
     color: black;
 }
 
-#media #yt-video{
-    height: 152px;
-    border-radius: 12px;
-    margin-left: 50px;
-}
 
 /* Main / All episodes */
 
