@@ -69,6 +69,10 @@ h1{
   width: 50px;
 }
 
+#podcast-list h2{
+    scroll-margin-top: 150px;
+}
+
 /* Header */
 
 /* Header/ Hero */
