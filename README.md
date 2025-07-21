@@ -91,7 +91,6 @@ I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wirefram
 | Home | ![screenshot](documentation/wireframes/home-mobile.jpeg) | ![screenshot](documentation/wireframes/home-tablet.jpeg) | ![screenshot](documentation/wireframes/home-desktop.jpeg) |
 | All Episodes | ![screenshot](documentation/wireframes/all-episodes-mobile.jpeg) | ![screenshot](documentation/wireframes/all-episodes-tablet.jpeg) | ![screenshot](documentation/wireframes/all-episodes-desktop.jpeg) |
 | Sponsoring | ![screenshot](documentation/wireframes/sponsoring-mobile.jpeg) | ![screenshot](documentation/wireframes/sponsoring-tablet.jpeg) | ![screenshot](documentation/wireframes/sponsoring-desktop.jpeg) |
-| Confirmation | ![screenshot](documentation/wireframes/success-mobile.jpeg) | ![screenshot](documentation/wireframes/success-tablet.jpeg) | ![screenshot](documentation/wireframes/desktop-confirmation.png) |
 | Confirmation | ![screenshot](documentation/wireframes/success-mobile.jpeg) | ![screenshot](documentation/wireframes/success-tablet.jpeg) | ![screenshot](documentation/wireframes/success-desktop.jpeg) |
 | 404 | ![screenshot](documentation/wireframes/404-mobile.jpeg) | ![screenshot](documentation/wireframes/404-tablet.jpeg) | ![screenshot](documentation/wireframes/404-desktop.jpeg) |
 
