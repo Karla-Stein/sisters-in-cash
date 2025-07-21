@@ -152,5 +152,51 @@ Font Awesome helps support a clean, user-friendly interface while maintaining pe
 [Fontawesome](https://fontawesome.com/)
 
 
+## User Stories
+
+| Target | Expectation | Outcome |
+|--------|-------------|---------|
+| As a content creator | I want to easily find new podcast episodes | so that I can learn from my peers’ tactics and real experiences. |
+| As a new user | I want to easily find the community links | so that I can benefit from exclusive insights shared within the community. |
+| As a new user | I need to find links to external resources | so that I can verify the credibility of the podcast or its guests. |
+| As a sponsor | I need to find a contact form | so that I can express interest in sponsoring the podcast. |
+| As an industry peer | I need to find a contact form | so that I can express interest in being featured as a guest. |
+| As a sponsor | I need to view a list of featured guest speakers | so that I can evaluate if they align with my brand or product before sponsoring. |
+| As an industry peer | I need to view upcoming events | so that I can decide if I want to participate or collaborate. |
+| As a visual-first user | I want to easily find the latest podcast video | so that I can engage with the content in a way that suits my preferences. |
+| As the podcast host | I want to receive notifications or view form submissions | so that I can respond to sponsorship and guest inquiries promptly. |
+
+
+## Features
+### Existing Features 
+
+| Feature | Notes | Screenshot |
+| --- | --- | --- |
+| Navbar | Displayed consistently across all pages, the fully responsive navbar includes links to key site areas: Home, Community, All Episodes, Events, Be Our Guest, Sponsoring and a Contributer dropdown menu. On smaller screens, a burger menu is used to toggle visibility, ensuring easy navigation on mobile devices. The navbar is fixed for persistent access while scrolling. | ![screenshot](documentation/features/navbar.jpeg) |
+| Hero Section | The homepage opens with a strong introduction that highlights the podcast’s mission and invites visitors to listen to the latest episode. This section helps new users immediately understand what the site and podcast are about. | ![screenshot](documentation/features/hero-section.jpeg) |
+| All Episodes Page | This section showcases all available podcast episodes, including guest-speaker name, titles, brief summaries, embedded audio players and external link to the guest speakers Instagram. | ![screenshot](documentation/features/all-episodes-page.jpeg) |
+| Community Section | Prominently featured on the homepage, this section invites users to join the private community where exclusive insights and peer support are shared. This feature builds trust and ongoing engagement with the audience. | ![screenshot](documentation/features/community-section.jpeg) |
+| Events Section | The Events section allows users and collaborators to view upcoming podcast-related events or Talks. Each event includes a title, date, and where it's held, with optional links to get in touch. | ![screenshot](documentation/features/events-section.jpeg) |
+| Guest Application Form | This form allows industry peers and creators to apply to be featured on the podcast. It collects key information such as name, social handle, contact details and allows to leave a message making the guest onboarding process streamlined. | ![screenshot](documentation/features/guest-form.jpeg)|
+| Sponsor Form | This form enables sponsors to express interest in partnering with the podcast. The form includes fields for name, company name, company website, contact info and it allows to leave a message giving sponsors confidence that their inquiry will be taken seriously. | ![screenshot](documentation/features/sponsor-form.jpeg) |
+| Contributer Directory | A dedicated dropdown menu showcasing guest speakers linking to relevant episodes. This helps sponsors assess alignment and also gives credibility to the podcast. | ![screenshot](documentation/features/contributer-directory.jpeg) |
+| Success Page | After form submission, users are directed to a confirmation page thanking them for their inquiry. It provides reassurance that their message has been received and reinforces a smooth, professional experience. | ![screenshot](documentation/features/success-page.jpeg) |
+| 404 Page | A custom 404 page is included to guide users who land on a non-existent page. Styled to match the rest of the site, it helps users recover quickly and enhances professionalism. | ![screenshot](documentation/features/404-page.jpeg) |
+| Footer | The footer includes social media links and legal information. All external links open in new tabs to maintain a seamless experience. This section encourages ongoing connection outside the site. | ![screenshot](documentation/features/footer.jpeg) |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
