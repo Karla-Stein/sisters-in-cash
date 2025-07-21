@@ -123,6 +123,6 @@ Together, these colors evoke a feminine but powerful energy — blending emotion
 - highlight-color: #E1B8E7;
 - highlight-color-light: #ead6d3;
 
-![screenshot](documentation/colour-palette/sic-project-colors.png)
+![screenshot](documentation/colour-palette/color-palette-200x200.png)
 
 
