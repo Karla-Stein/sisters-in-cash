@@ -26,7 +26,7 @@ h2{
 
 h1{
     /* shadow code perplexity output */
-    text-shadow: 0 0 10px var(--primary-color),  0 0 20px white;
+    text-shadow: 0 0 10px var(--primary-color),  0 0 20px var(--highlight-color);
     color: var(--primary-color);
     
 }
@@ -116,6 +116,7 @@ h1{
     background-color:  var(--highlight-color-light);
     color: black;
 }
+
 
 
 /* Main / All episodes */

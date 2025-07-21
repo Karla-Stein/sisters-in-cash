@@ -95,5 +95,34 @@ I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wirefram
 | 404 | ![screenshot](documentation/wireframes/404-mobile.jpeg) | ![screenshot](documentation/wireframes/404-tablet.jpeg) | ![screenshot](documentation/wireframes/404-desktop.jpeg) |
 
 
+#### 5. Surface
+
+**Visual Design Elements**
+- **[Colours](#colour-scheme)** 
+- **[Typography](#typography)** 
+
+### Colour Scheme
+
+I used [imagecolorpicker.com](https://imagecolorpicker.com/) to generate my color palette.
+
+The visual identity of this project is intentionally soft yet bold — designed to resonate 
+with the podcast’s audience: independent, creative, and ambitious content creators navigating 
+a vulnerable and fast-moving industry.
+
+| Colour | Hex | Meaning & Purpose |
+| --- | --- | --- |
+| Deep Plum | #5A3C5A | A strong, grounding base color. Symbolizes authority, depth, and sophistication — ideal for establishing credibility and seriousness in sensitive topics like legal protection and monetization. |
+| Muted Rose | #B4727F | Warm and approachable. This color conveys compassion and vulnerability, reflecting the podcast’s mission to build trust and create a safe space for real conversations. |
+| Lavender Mist | #E1B8E7 | Light and imaginative. It nods to creativity, femininity, and innovation — aligning with the podcast’s focus on new tools, platforms, and AI-driven workflows. |
+| Soft Blush | #EAD6D3 | Clean and minimal. Used for balance, space, and background elements to keep the interface light and readable while reinforcing a sense of calm and care.
+
+Together, these colors evoke a feminine but powerful energy — blending emotional intelligence with digital confidence. They were chosen not only for visual harmony but to represent the heart of the podcast: unfiltered truth, bold growth, and unapologetic ownership in a space that often lacks transparency.
+
+- primary-color: #5a3c5a;
+- secondary-color: #b4727f;
+- highlight-color: #E1B8E7;
+- highlight-color-light: #ead6d3;
+
+![screenshot](documentation/colour-palette/sic-project-colors.png)
 
 
