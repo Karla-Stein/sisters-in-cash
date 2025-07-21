@@ -100,6 +100,7 @@ I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wirefram
 **Visual Design Elements**
 - **[Colours](#colour-scheme)** 
 - **[Typography](#typography)** 
+- **[Iconography](#iconography)**
 
 ### Colour Scheme
 
@@ -124,5 +125,32 @@ Together, these colors evoke a feminine but powerful energy — blending emotion
 - highlight-color-light: #ead6d3;
 
 ![screenshot](documentation/colour-palette/color-palette-200x200.png)
+
+### Typography
+
+This project uses two Google Fonts:
+- Chivo (for headings):
+A bold, modern sans-serif typeface that creates a sense of clarity and authority. It was chosen to give the podcast a confident visual voice and help important sections — such as titles, CTAs, and headers stand out with impact.
+- Inter (for body text):
+A versatile and highly readable font optimized for digital use. Inter ensures that long-form content, episode descriptions, and informational text are easy to consume, even on smaller screens.
+
+The combination of Chivo and Inter offers a strong visual hierarchy, blending a bold, editorial feel with clean readability — perfectly aligned with the podcast’s mission to educate, empower, and inform creators.
+
+- [Chivo](https://fonts.google.com/specimen/Chivo) was used for all headings.
+- [Inter](https://fonts.google.com/specimen/Inter) was used for the body text. 
+
+### Iconography
+
+This project uses Font Awesome via CDN to integrate lightweight, scalable icons across the site.
+- Why Font Awesome?
+It offers a wide selection of professional, consistent icons that are widely supported across modern browsers and devices.
+- How it’s used:
+Icons are used selectively to represent social media platforms in the footer and to display the copyright symbol — enhancing clarity and professionalism without adding unnecessary visual noise.
+
+Font Awesome helps support a clean, user-friendly interface while maintaining performance and flexibility as the site grows.
+
+[Fontawesome](https://fontawesome.com/)
+
+
 
 
