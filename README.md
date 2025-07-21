@@ -13,10 +13,10 @@ This project is the official website for a podcast supporting adult content crea
 The platform aims to shed light on key topics often left in the dark — from content ownership and copyright protection to legal risks, platform policies, and the rise of AI in content creation. Through in-depth conversations with creators, legal experts, and digital strategists, the podcast offers valuable insight into building a secure, profitable, and sustainable creator business.
 
 The site is designed to support:
-	•	Listeners looking for real-world advice on monetization, protection, and growth
-	•	Peers seeking a trusted community to share tools, experiences, and opportunities
-	•	Sponsors exploring targeted, high-impact audience placements
-	•	Guest speakers with valuable stories or expertise to contribute
+- Listeners looking for real-world advice on monetization, protection, and growth
+- Peers seeking a trusted community to share tools, experiences, and opportunities
+- Sponsors exploring targeted, high-impact audience placements
+- Guest speakers with valuable stories or expertise to contribute
 
 Although the project is still in its early stages, the long-term goal is to grow both the podcast and the community — helping creators take ownership of their work, protect their rights, and scale their digital presence with confidence.
 
@@ -65,7 +65,7 @@ insights, and access to a peer-driven community.
 
 **Information Architecture**
 - **Navigation Menu**:
-  - Accessible links in the navbar, including Home, Community, All Episodes, Events, Be out guest, Sponsoring and 
+  - Accessible links in the navbar, including Home, Community, All Episodes, Events, Be our guest, Sponsoring and 
   a dropdown of all podcast contributer.
 - **Hierarchy**:
   - Clear call-to-action's
@@ -77,6 +77,24 @@ insights, and access to a peer-driven community.
 3. Visits the Community section - learns how to join and why it’s valuable for peers.
 4. Opens the Events page - checks upcoming talks or collaborations.
 5. Goes to the Guest or Sponsor form - submits application to be featured or partner with the podcast.
+
+
+#### 4. Skeleton
+
+**[Wireframes](#wireframes)**
+
+To follow best practice, wireframes were developed for mobile, tablet, and desktop sizes.
+I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wireframes.
+
+| Page | Mobile | Tablet | Desktop |
+| --- | --- | --- | --- |
+| Home | ![screenshot](documentation/wireframes/home-mobile.jpeg) | ![screenshot](documentation/wireframes/home-tablet.jpeg) | ![screenshot](documentation/wireframes/home-desktop.jpeg) |
+| All Episodes | ![screenshot](documentation/wireframes/all-episodes-mobile.jpeg) | ![screenshot](documentation/wireframes/all-episodes-tablet.jpeg) | ![screenshot](documentation/wireframes/all-episodes-desktop.jpeg) |
+| Sponsoring | ![screenshot](documentation/wireframes/sponsoring-mobile.jpeg) | ![screenshot](documentation/wireframes/sponsoring-tablet.jpeg) | ![screenshot](documentation/wireframes/sponsoring-desktop.jpeg) |
+| Confirmation | ![screenshot](documentation/wireframes/success-mobile.jpeg) | ![screenshot](documentation/wireframes/success-tablet.jpeg) | ![screenshot](documentation/wireframes/desktop-confirmation.png) |
+| Confirmation | ![screenshot](documentation/wireframes/success-mobile.jpeg) | ![screenshot](documentation/wireframes/success-tablet.jpeg) | ![screenshot](documentation/wireframes/success-desktop.jpeg) |
+| 404 | ![screenshot](documentation/wireframes/404-mobile.jpeg) | ![screenshot](documentation/wireframes/404-tablet.jpeg) | ![screenshot](documentation/wireframes/404-desktop.jpeg) |
+
 
 
 
