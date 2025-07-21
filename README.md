@@ -110,12 +110,12 @@ The visual identity of this project is intentionally soft yet bold — designed 
 with the podcast’s audience: independent, creative, and ambitious content creators navigating 
 a vulnerable and fast-moving industry.
 
-| Colour | Hex | Meaning & Purpose |
-| --- | --- | --- |
-| Deep Plum | #5A3C5A | A strong, grounding base color. Symbolizes authority, depth, and sophistication — ideal for establishing credibility and seriousness in sensitive topics like legal protection and monetization. |
-| Muted Rose | #B4727F | Warm and approachable. This color conveys compassion and vulnerability, reflecting the podcast’s mission to build trust and create a safe space for real conversations. |
-| Lavender Mist | #E1B8E7 | Light and imaginative. It nods to creativity, femininity, and innovation — aligning with the podcast’s focus on new tools, platforms, and AI-driven workflows. |
-| Soft Blush | #EAD6D3 | Clean and minimal. Used for balance, space, and background elements to keep the interface light and readable while reinforcing a sense of calm and care.
+| Colour | Hex | Meaning & Purpose | Colour Visualisation |
+| --- | --- | --- | --- |
+| Deep Plum | #5A3C5A | A strong, grounding base color. Symbolizes authority, depth, and sophistication — ideal for establishing credibility and seriousness in sensitive topics like legal protection and monetization. | ![screenshot](documentation/colour-palette/5a3c5a.jpeg) |
+| Muted Rose | #B4727F | Warm and approachable. This color conveys compassion and vulnerability, reflecting the podcast’s mission to build trust and create a safe space for real conversations. | ![screenshot](documentation/colour-palette/b4727f.jpeg) |
+| Lavender Mist | #E1B8E7 | Light and imaginative. It nods to creativity, femininity, and innovation — aligning with the podcast’s focus on new tools, platforms, and AI-driven workflows. | ![screenshot](documentation/colour-palette/e1b8e7.jpeg) |
+| Soft Blush | #EAD6D3 | Clean and minimal. Used for balance, space, and background elements to keep the interface light and readable while reinforcing a sense of calm and care. | ![screenshot](documentation/colour-palette/ead6d3.jpeg) |
 
 Together, these colors evoke a feminine but powerful energy — blending emotional intelligence with digital confidence. They were chosen not only for visual harmony but to represent the heart of the podcast: unfiltered truth, bold growth, and unapologetic ownership in a space that often lacks transparency.
 
@@ -124,7 +124,6 @@ Together, these colors evoke a feminine but powerful energy — blending emotion
 - highlight-color: #E1B8E7;
 - highlight-color-light: #ead6d3;
 
-![screenshot](documentation/colour-palette/color-palette-200x200.png)
 
 ### Typography
 
