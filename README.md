@@ -5,6 +5,7 @@ Developer: Karla Steinbrink ([karla-stein](https://www.github.com/karla-stein))
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/t/karla-stein/sisters-in-cash)](https://www.github.com/karla-stein/sisters-in-cash/commits/main)
 [![GitHub last commit](https://img.shields.io/github/last-commit/karla-stein/sisters-in-cash)](https://www.github.com/karla-stein/sisters-in-cash/commits/main)
 [![GitHub repo size](https://img.shields.io/github/repo-size/karla-stein/sisters-in-cash)](https://www.github.com/karla-stein/sisters-in-cash)
+[![badge](https://img.shields.io/badge/deployment-GitHub_Pages-purple)](https://karla-stein.github.io/sisters-in-cash)
 
 PROJECT INTRODUCTION
 
