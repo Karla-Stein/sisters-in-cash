@@ -225,6 +225,19 @@ This approach helped focus development on real user goals, avoid scope creep, an
 ![screenshot](documentation/github/gh-project-board.jpeg)
 
 
+### GitHub Issues
+
+[GitHub Issues](https://www.github.com/karla-stein/sisters-in-cash/issues) 
+served as an another Agile tool. There, I managed my User Stories and Milestone tasks, and tracked any issues/bugs.
+
+| Link | Screenshot |
+| --- | --- |
+| [![GitHub issues](https://img.shields.io/github/issues/karla-stein/sisters-in-cash)](https://www.github.com/karla-stein/sisters-in-cash/issues) | ![screenshot](documentation/github/issues-open.jpeg) |
+| [![GitHub closed issues](https://img.shields.io/github/issues-closed/karla-stein/sisters-in-cash)](https://www.github.com/karla-stein/sisters-in-cash/issues?q=is%3Aissue+is%3Aclosed) | ![screenshot](documentation/github/issues-closed.jpeg) |
+
+
+
+
 
 
 
