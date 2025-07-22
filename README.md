@@ -236,6 +236,22 @@ served as an another Agile tool. There, I managed my User Stories and Milestone 
 | [![GitHub closed issues](https://img.shields.io/github/issues-closed/karla-stein/sisters-in-cash)](https://www.github.com/karla-stein/sisters-in-cash/issues?q=is%3Aissue+is%3Aclosed) | ![screenshot](documentation/github/issues-closed.jpeg) |
 
 
+### MoSCoW Prioritization
+
+To keep things focused and avoid getting overwhelmed, I used the MoSCoW method to organise my tasks inside the GitHub Project board. I broke down my bigger ideas (epics) into smaller, actionable user stories and then grouped them by priority.
+
+This made it much easier to see what absolutely needed to get done — and what could wait until later.
+
+Here’s how I prioritised:
+- Must Have – These were non-negotiable. Core features that had to be delivered first.
+- Should Have – Adds real value, but weren’t essential to make the site work.
+- Could Have – Nice-to-have extras with small impact if left out. 
+- Won’t Have (for now) – A feature I’d love to add in future versions but don’t yet have the technical skills to implement. They’ve been documented for future iterations.
+
+This method helped me stay focused on delivering a functional, meaningful site without getting lost in the details too early.
+
+
+
 
 
 
