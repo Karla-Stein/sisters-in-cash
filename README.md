@@ -184,6 +184,12 @@ Font Awesome helps support a clean, user-friendly interface while maintaining pe
 | Footer | The footer includes social media links and legal information. All external links open in new tabs to maintain a seamless experience. This section encourages ongoing connection outside the site. | ![screenshot](documentation/features/footer.jpeg) |
 
 
+### Future Features
+
+- **Valid destination for form data**: Allows Podacst host to view form submissions where they can can respond to inquiries promptly.
+- **Video content**: Embedd latest youtube video for regular users that prefer visuals over audio-only listening. 
+- **Search bar**: Allow users to search by guest, topic, or keyword to find the most relevant episodes for their needs. 
+
 
 
 
