@@ -168,6 +168,7 @@ Font Awesome helps support a clean, user-friendly interface while maintaining pe
 | As a user | I want to see a custom 404 error page when I land on a broken or non-existent link | so I know I’ve made a mistake and can easily navigate back to the site. |
 | As a user | I want to use a search bar to quickly find specific podcast episodes or topics | so I don’t have to scroll through all content manually. |
 | As a new user | I want to view a carousel of community images in the community section | so I can get a visual sense of the people, vibe, and value of joining the network. |
+| As a user interested in attending events | I want to view a map with the event location | so I can easily understand where it’s taking place and plan my visit. |
 
 
 ## Features
@@ -181,6 +182,7 @@ Font Awesome helps support a clean, user-friendly interface while maintaining pe
 | Community Section | Prominently featured on the homepage, this section invites users to join the private community where exclusive insights and peer support are shared. This feature builds trust and ongoing engagement with the audience. | ![screenshot](documentation/features/community-section.jpeg) |
 | Community Carousel | The community section includes a responsive image carousel showcasing real visuals that reflect the vibe, diversity, and value of the network. It allows users to scroll through images to get a stronger sense of connection and trust, encouraging them to explore or join the community. | ![screenshot](documentation/features/community-carousel.jpeg) |
 | Events Section | The Events section allows users and collaborators to view upcoming podcast-related events or Talks. Each event includes a title, date, and where it's held, with optional links to get in touch. | ![screenshot](documentation/features/events-section.jpeg) |
+| Google Map| The events section includes a fully responsive Google Map. This allows users to visually understand where events are held, explore the surrounding area, and plan their attendance more easily. |  | ![screenshot](documentation/features/google-map.jpeg) |
 | Guest Application Form | This form allows industry peers and creators to apply to be featured on the podcast. It collects key information such as name, social handle, contact details and allows to leave a message making the guest onboarding process streamlined. | ![screenshot](documentation/features/guest-form.jpeg)|
 | Sponsor Form | This form enables sponsors to express interest in partnering with the podcast. The form includes fields for name, company name, company website, contact info and it allows to leave a message giving sponsors confidence that their inquiry will be taken seriously. | ![screenshot](documentation/features/sponsor-form.jpeg) |
 | Contributer Directory | A dedicated dropdown menu showcasing guest speakers linking to relevant episodes. This helps sponsors assess alignment and also gives credibility to the podcast. | ![screenshot](documentation/features/contributer-directory.jpeg) |
