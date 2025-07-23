@@ -166,6 +166,7 @@ Font Awesome helps support a clean, user-friendly interface while maintaining pe
 | As a visual-first user | I want to easily find the latest podcast video | so that I can engage with the content in a way that suits my preferences. |
 | As the podcast host | I want to receive notifications or view form submissions | so that I can respond to sponsorship and guest inquiries promptly. |
 | As a user | I want to see a custom 404 error page when I land on a broken or non-existent link | so I know I’ve made a mistake and can easily navigate back to the site. |
+| As a user | I want to use a search bar to quickly find specific podcast episodes or topics | so I don’t have to scroll through all content manually.
 
 
 ## Features
