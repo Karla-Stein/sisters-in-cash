@@ -97,9 +97,14 @@ html {
     padding: 20px;
 }
 
-#community img{
-    height: 150px;
+.carousel-item {
+  height: 32rem;
 }
+.carousel-inner img {
+  height: 100%;
+  object-fit: cover;
+}
+
 
 #community p{
     margin: 8px;
@@ -110,12 +115,6 @@ html {
 #media iframe{
     width: 100%;
 }
-
-/* #media #yt-video{
-    height: 152px;
-    border-radius: 12px;
-    margin-left: 50px;
-} */
 
 /* Main / Events */
 #events .table *{
@@ -148,9 +147,7 @@ html {
 #success .larger{
     width: 250px;
 }
-/* #all-episode #summary{
-    border-radius: 12px;
-} */
+
 
 /* Footer / Follow us */
 #follow {
@@ -185,10 +182,10 @@ html {
 
   /*Media Query  */
   /* Media devices */
-  @media screen and (min-width: 992px){
+  /* @media screen and (min-width: 992px){
   #logo{
   margin-top: 28px
   }
-}
+} */
 
  
