@@ -166,7 +166,8 @@ Font Awesome helps support a clean, user-friendly interface while maintaining pe
 | As a visual-first user | I want to easily find the latest podcast video | so that I can engage with the content in a way that suits my preferences. |
 | As the podcast host | I want to receive notifications or view form submissions | so that I can respond to sponsorship and guest inquiries promptly. |
 | As a user | I want to see a custom 404 error page when I land on a broken or non-existent link | so I know I’ve made a mistake and can easily navigate back to the site. |
-| As a user | I want to use a search bar to quickly find specific podcast episodes or topics | so I don’t have to scroll through all content manually.
+| As a user | I want to use a search bar to quickly find specific podcast episodes or topics | so I don’t have to scroll through all content manually. |
+| As a new user | I want to view a carousel of community images in the community section | so I can get a visual sense of the people, vibe, and value of joining the network. |
 
 
 ## Features
@@ -178,6 +179,7 @@ Font Awesome helps support a clean, user-friendly interface while maintaining pe
 | Hero Section | The homepage opens with a strong introduction that highlights the podcast’s mission and invites visitors to listen to the latest episode. This section helps new users immediately understand what the site and podcast are about. | ![screenshot](documentation/features/hero-section.jpeg) |
 | All Episodes Page | This section showcases all available podcast episodes, including guest-speaker name, titles, brief summaries, embedded audio players and external link to the guest speakers Instagram. | ![screenshot](documentation/features/all-episodes-page.jpeg) |
 | Community Section | Prominently featured on the homepage, this section invites users to join the private community where exclusive insights and peer support are shared. This feature builds trust and ongoing engagement with the audience. | ![screenshot](documentation/features/community-section.jpeg) |
+| Community Carousel | The community section includes a responsive image carousel showcasing real visuals that reflect the vibe, diversity, and value of the network. It allows users to scroll through images to get a stronger sense of connection and trust, encouraging them to explore or join the community. | ![screenshot](documentation/features/community-carousel.jpeg) |
 | Events Section | The Events section allows users and collaborators to view upcoming podcast-related events or Talks. Each event includes a title, date, and where it's held, with optional links to get in touch. | ![screenshot](documentation/features/events-section.jpeg) |
 | Guest Application Form | This form allows industry peers and creators to apply to be featured on the podcast. It collects key information such as name, social handle, contact details and allows to leave a message making the guest onboarding process streamlined. | ![screenshot](documentation/features/guest-form.jpeg)|
 | Sponsor Form | This form enables sponsors to express interest in partnering with the podcast. The form includes fields for name, company name, company website, contact info and it allows to leave a message giving sponsors confidence that their inquiry will be taken seriously. | ![screenshot](documentation/features/sponsor-form.jpeg) |
