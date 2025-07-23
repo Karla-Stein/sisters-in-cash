@@ -31,7 +31,9 @@ h1{
     
 }
 
-
+h2{
+ margin-top: 10px;
+}
 
 .sub-heading-color{
     color: var(--secondary-color);

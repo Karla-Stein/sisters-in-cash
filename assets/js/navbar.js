@@ -1,3 +1,4 @@
+
 /* jshint esversion: 11 */
 
 //   JavaScript code to ensure the Bootstrap mobile navbar collapses when navigating to in-page links
@@ -19,5 +20,15 @@ document
 
       // 3) we found a real section, do the smooth scroll via CSS
       e.preventDefault();
+
+      // 4) collapse the menu
+      document.querySelector(".navbar-collapse").classList.remove("show");
+
+      // 5) this triggers a native scroll (respects CSS scroll‐margin‐top + smooth)
+      location.hash = hash;
     });
   });
+
+
+
+
