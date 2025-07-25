@@ -315,6 +315,34 @@ There are no remaining major differences between the local version when compared
 
 ## Credits
 
+Content & Design Inspiration
+- Inspiration for this project was drawn from best practices taught in the Code Institute course and concepts explored in the walkthrough projects, but all decisions around layout, structure, and content flow were made independently.
+
+README Guidance
+- The overall structure, formatting, and flow of this README were guided by my mentor, Tim Nelson, whose input helped shape a clear and professional documentation style throughout.
+
+Code References & Tutorials
+- Code Institute: General structure and best practices were guided by Code Institute course materials. Javascript code was partly provided by Code Institute.
+- W3Schools & MDN Web Docs: Used as primary references for HTML and CSS.
+- Stack Overflow: Used sparingly to help resolve specific issues during development.
+- Perplexity – Used to quickly resolve development issues and clarify technical concepts.
+	
+
+Tools & Resources
+- Font Awesome: Icons used for social media links and interface enhancements. https://fontawesome.com
+- Google Fonts: Fonts used for typography design. https://fonts.google.com
+- Canva: Used to create color visualisation for the README file. https://www.canva.com
+- Balsamiq: Used for early-stage wireframe creation. https://balsamiq.com
+- Unsplash: Royalty-free stock hero images used across the site. https://unsplash.com. 
+- Gemini: Used the mobile app to generate carousel image content. https://gemini.google.com/
+
+Acknowledgements
+- ChatGPT by OpenAI – Assisted in refining ideas, writing content and improving documentation.
+- Sincere thanks to Code Institute for providing a strong foundation in front-end development, UX strategy, and best practices — all of which directly shaped the success of this project.
+- Special appreciation to my mentor, Tim Nelson, whose guidance, feedback, and support were instrumental in helping me structure this project and push it to a higher standard.
+
+
+
 
 
 
