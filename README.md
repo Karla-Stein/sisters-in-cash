@@ -368,36 +368,35 @@ Below is a table with all source links to relevant podacst episodes.
 | Source | Episode Name |
 | --- | --- |
 | [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "Content Recycling Secrets"| 
-| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "Social media safety and ai tools for adult content creator"| 
-| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "Streaming for Success" | 
-| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "The Dommy Mummy"| 
-| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "The stolen conteny crisis"| 
-| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "How Ai is changing the industry"| 
-| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "The future of adult content" | 
-| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "The secret to success" | 
-| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "Navigating the digital Realm" | 
-| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "Harnessing digital tools"| 
-| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "Journey of empowering women" | 
-| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "From resilience to recognition" | 
-| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "From Millwauke to multi media mogul"| 
-| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "Social media mit Herz" | 
-| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "Provokante Umfragen"| 
-| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "Navigating new identities" | 
-| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "From live camming to international stardom" | 
-| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "From strip club to social media star"| 
-| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "Earning stability" | 
-| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "Latex and Lifts" | 
-| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "From hairdressing to hashtags" | 
-| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "Insta dreams to TikTok tactics"| 
-| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "The Power of Authenticity and Ambition" | 
-| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "Unlocking the Potential of Instagram" | 
-| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "ModelSearcher Unleashed"| 
-| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "Unveiling the Adult Film Industry"| 
-| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "Turning Passion into Profit" | 
-| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "From Modelling to Youtube Success" | 
-| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "Exploring ModelSearcher" | 
-| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "Navigating the World of Media"
-| 
+| [Spotify](https://open.spotify.com/episode/5dtgKP8oCD0RJyx0RKAoAF?si=6e5a2f7a8f764a03) | "Social media safety and ai tools for adult content creator"| 
+| [Spotify](https://open.spotify.com/episode/1ZrJz53gTofH56K4UWc5Sz?si=fc8f73edceb54829) | "Streaming for Success" | 
+| [Spotify](https://open.spotify.com/episode/429jsBxoXcxuxveCR4ADFJ?si=1117ae23382a4868) | "The Dommy Mummy"| 
+| [Spotify](https://open.spotify.com/episode/7eH8xCX0NB4Mzvz2ZOfXb6?si=ccc6f94191704041) | "The stolen conteny crisis"| 
+| [Spotify](https://open.spotify.com/episode/4VSP0c4YkEdX8YO51gfSTN?si=c2bab90e69934fd7) | "How Ai is changing the industry"| 
+| [Spotify](https://open.spotify.com/episode/1Kzxn5P2sC65M4vylyby3b?si=b3de085d5c8d4cb2) | "The future of adult content" | 
+| [Spotify](https://open.spotify.com/episode/5rVisH9oxH1qD1c8mWLKWF?si=775e64a425ae41b0) | "The secret to success" | 
+| [Spotify](https://open.spotify.com/episode/6Aeeid84DuIH0xOeZgd2Gm?si=846899d144424bff) | "Navigating the digital Realm" | 
+| [Spotify](https://open.spotify.com/episode/1rsGbEVVoyEE9kzP4DUeKd?si=fb0016dcdc8c4515) | "Harnessing digital tools"| 
+| [Spotify](https://open.spotify.com/episode/6DWQtOAP6MZGdU7FPhOSyg?si=b2e35db0166b40e4) | "Journey of empowering women" | 
+| [Spotify](https://open.spotify.com/episode/3eYPBHoMKvIRHtZqkAlb0Z?si=2f9422b28bc048dd) | "From resilience to recognition" | 
+| [Spotify](https://open.spotify.com/episode/5FhaqGO72j0rXdkNStM2OX?si=6074a89feac74dde) | "From Millwauke to multi media mogul"| 
+| [Spotify](https://open.spotify.com/episode/5jsZqwoooD8003SoT46Leu?si=b66bdd4d38cb4611) | "Social media mit Herz" | 
+| [Spotify](https://open.spotify.com/episode/1Gkx18iWfQlHQdbAMmVpzl?si=1a53b20187964670) | "Provokante Umfragen"| 
+| [Spotify](https://open.spotify.com/episode/5EIcwZp4w6NRHwShJVTXP1?si=cdfcd2516530490f) | "Navigating new identities" | 
+| [Spotify](https://open.spotify.com/episode/0KL5KSxSIiI5afy8Gt8r6P?si=d72933ea2bc14a8f) | "From live camming to international stardom" | 
+| [Spotify](https://open.spotify.com/episode/3NP8bWG6GVNa8cFDMiK9l2?si=4e564cdfa6344908) | "From strip club to social media star"| 
+| [Spotify](https://open.spotify.com/episode/6GKbD2ROEpdVI2KjbgqQz9?si=3e3cb67bd6e44676) | "Earning stability" | 
+| [Spotify](https://open.spotify.com/episode/2rQauJ3jrnqmAta7VAZZg4?si=0dd3d589bb3148aa) | "Latex and Lifts" | 
+| [Spotify](https://open.spotify.com/episode/3C78o6bKsBpc9KHFIkXe4k?si=a56b26d377e64012) | "From hairdressing to hashtags" | 
+| [Spotify](https://open.spotify.com/episode/32UnG7twH0wDplpFRuUmMl?si=5cdb8e5ddc274833) | "Insta dreams to TikTok tactics"| 
+| [Spotify](https://open.spotify.com/episode/1RBUBWP8sU1yXp7twIgr7O?si=4623f8a53e5c4821) | "The Power of Authenticity and Ambition" | 
+| [Spotify](https://open.spotify.com/episode/7tHmmRCcWNO58a3KNxTtZg?si=94e1a35ca0974dc6) | "Unlocking the Potential of Instagram" | 
+| [Spotify](https://open.spotify.com/episode/4H44wMk8L3KJwesGV67bvl?si=1ed55f76b6c242e6) | "ModelSearcher Unleashed"| 
+| [Spotify](https://open.spotify.com/episode/7sNV15ifoIXMHrAs3aj9Cc?si=79753a29902242ec) | "Unveiling the Adult Film Industry"| 
+| [Spotify](https://open.spotify.com/episode/1VBRc6YZY1Vm3XD5Z61cHl?si=093095d3fc4c4051) | "Turning Passion into Profit" | 
+| [Spotify](https://open.spotify.com/episode/6Yuxj8wfFnuehjZVgTvLGm?si=3bb2c22249394a03) | "From Modelling to Youtube Success" | 
+| [Spotify](https://open.spotify.com/episode/7kYJNtsCVZm45150YRzCjU?si=dbacdd2b283c4135) | "Exploring ModelSearcher" | 
+| [Spotify](https://open.spotify.com/episode/33Dhno1eAppC8K8hxu21Zp?si=240306cb52824f50) | "Navigating the World of Media"| 
 
 
 
