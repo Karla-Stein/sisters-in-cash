@@ -342,6 +342,24 @@ Acknowledgements
 - Special appreciation to my mentor, Tim Nelson, whose guidance, feedback, and support were instrumental in helping me structure this project and push it to a higher standard.
 
 
+### Content 
+
+| Source | Notes |
+| --- | --- |
+| [Markdown Builder](https://markdown.2bn.dev) | Help generating Markdown files |
+| [Boardwalk Game](https://karla-stein.github.io/boardwalk-games/) | Code Institute walkthrough project inspiration |
+| [ChatGPT](https://chat.openai.com) | Assisted with rewording user stories, acceptance criteria, content, and README content. |
+| [Perplexity](https://www.perplexity.ai) | Used to clarify development questions and resolve specific coding issues quickly. |
+| [Gemini](https://gemini.google.com/) | Used the mobile app to generate carousel image ideas and refine visual inspiration. |
+| [Bootstrap](https://getbootstrap.com) | Used to implement responsive design, layout components, and styling utilities. |
+| [Font Awesome](https://fontawesome.com) | Used for social icons and copyright symbol. |
+| [Google Fonts](https://fonts.google.com/) | Fonts used: *Chivo* and *Inter* for site typography. |
+| [Unsplash](https://unsplash.com/photos/condenser-microphone-with-black-background-OKLqGsCT8qs) | Source of royalty-free hero image used throughout the website. |
+| [ColorPicker](https://imagecolorpicker.com/) | Used to identify and extract precise color values for the site palette. |
+
+
+
+
 
 
 
