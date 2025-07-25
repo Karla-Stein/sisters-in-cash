@@ -358,6 +358,51 @@ Acknowledgements
 | [ColorPicker](https://imagecolorpicker.com/) | Used to identify and extract precise color values for the site palette. |
 
 
+### Media
+
+
+All podcast content is original and used with full permission from the host and podcast owner. The project may later serve as the official website for the Sisters in Cash podcast.
+Below is a table with all source links to relevant podacst episodes.
+
+
+| Source | Episode Name |
+| --- | --- |
+| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "Content Recycling Secrets"| 
+| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "Social media safety and ai tools for adult content creator"| 
+| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "Streaming for Success" | 
+| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "The Dommy Mummy"| 
+| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "The stolen conteny crisis"| 
+| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "How Ai is changing the industry"| 
+| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "The future of adult content" | 
+| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "The secret to success" | 
+| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "Navigating the digital Realm" | 
+| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "Harnessing digital tools"| 
+| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "Journey of empowering women" | 
+| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "From resilience to recognition" | 
+| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "From Millwauke to multi media mogul"| 
+| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "Social media mit Herz" | 
+| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "Provokante Umfragen"| 
+| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "Navigating new identities" | 
+| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "From live camming to international stardom" | 
+| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "From strip club to social media star"| 
+| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "Earning stability" | 
+| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "Latex and Lifts" | 
+| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "From hairdressing to hashtags" | 
+| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "Insta dreams to TikTok tactics"| 
+| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "The Power of Authenticity and Ambition" | 
+| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "Unlocking the Potential of Instagram" | 
+| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "ModelSearcher Unleashed"| 
+| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "Unveiling the Adult Film Industry"| 
+| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "Turning Passion into Profit" | 
+| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "From Modelling to Youtube Success" | 
+| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "Exploring ModelSearcher" | 
+| [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "Navigating the World of Media"
+| 
+
+
+
+
+
 
 
 
