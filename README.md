@@ -335,11 +335,8 @@ Tools & Resources
 - Balsamiq: Used for early-stage wireframe creation. https://balsamiq.com
 - Unsplash: Royalty-free stock hero images used across the site. https://unsplash.com. 
 - Gemini: Used the mobile app to generate carousel image content. https://gemini.google.com/
+- ChatGPT: Used to refine text content and improve grammar. | https://chat.openai.com
 
-Acknowledgements
-- ChatGPT by OpenAI – Assisted in refining ideas, writing content and improving documentation.
-- Sincere thanks to Code Institute for providing a strong foundation in front-end development, UX strategy, and best practices — all of which directly shaped the success of this project.
-- Special appreciation to my mentor, Tim Nelson, whose guidance, feedback, and support were instrumental in helping me structure this project and push it to a higher standard.
 
 
 ### Content 
@@ -397,6 +394,12 @@ Below is a table with all source links to relevant podacst episodes.
 | [Spotify](https://open.spotify.com/episode/6Yuxj8wfFnuehjZVgTvLGm?si=3bb2c22249394a03) | "From Modelling to Youtube Success" | 
 | [Spotify](https://open.spotify.com/episode/7kYJNtsCVZm45150YRzCjU?si=dbacdd2b283c4135) | "Exploring ModelSearcher" | 
 | [Spotify](https://open.spotify.com/episode/33Dhno1eAppC8K8hxu21Zp?si=240306cb52824f50) | "Navigating the World of Media"| 
+
+
+### Acknowledgements
+
+- Sincere thanks to Code Institute for providing a strong foundation in front-end development, UX strategy, and best practices — all of which directly shaped the success of this project.
+- Special appreciation to my mentor, Tim Nelson, whose guidance, feedback, and support were instrumental in helping me structure this project and push it to a higher standard.
 
 
 
