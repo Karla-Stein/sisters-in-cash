@@ -398,8 +398,9 @@ Below is a table with all source links to relevant podacst episodes.
 
 ### Acknowledgements
 
-- Sincere thanks to Code Institute for providing a strong foundation in front-end development, UX strategy, and best practices — all of which directly shaped the success of this project.
-- Special appreciation to my mentor, Tim Nelson, whose guidance, feedback, and support were instrumental in helping me structure this project and push it to a higher standard.
+- Sincere thanks to [Code Institute](https://codeinstitute.net) for providing a strong foundation in front-end development, UX strategy, and best practices — all of which directly shaped the success of this project.
+- Thank you to my assessor Jonathan Jacobson for the guidance and constructive feedback of this project, whose insights and encouragement helped shape the direction and quality of this work.
+- Special appreciation to my mentor, [Tim Nelson](https://www.github.com/TravelTimN), whose guidance, feedback, and support were instrumental in helping me structure this project and push it to a higher standard.
 
 
 
