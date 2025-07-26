@@ -394,6 +394,8 @@ Below is a table with all source links to relevant podacst episodes.
 | [Spotify](https://open.spotify.com/episode/6Yuxj8wfFnuehjZVgTvLGm?si=3bb2c22249394a03) | "From Modelling to Youtube Success" | 
 | [Spotify](https://open.spotify.com/episode/7kYJNtsCVZm45150YRzCjU?si=dbacdd2b283c4135) | "Exploring ModelSearcher" | 
 | [Spotify](https://open.spotify.com/episode/33Dhno1eAppC8K8hxu21Zp?si=240306cb52824f50) | "Navigating the World of Media"| 
+| [Google Map](https://bit.ly/2QVfkiy ) | Google map link provided from Code Institute |
+| [Gemini](https://gemini.google.com/) | Used for carousel images |
 
 
 ### Acknowledgements
