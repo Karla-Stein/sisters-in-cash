@@ -20,7 +20,7 @@ I have used the recommended [HTML W3C Validator](https://validator.w3.org) to va
 I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-validator) to validate my CSS file.
 
 | Directory | File | URL | Screenshot | Warnings | Notes
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | assets | [style.css](https://github.com/Karla-Stein/sisters-in-cash/assets/css/style.css) | [CSS Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fkarla-stein.github.io%2Fsisters-in-cash%2Fassets%2Fcss%2Fstyle.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en) | ![screenshot](documentation/testing/validation/css-url-validation.jpeg) | 
 ![screenshot](documentation/testing/validation/css-url-warnings.jpeg) | The CSS file passed validation successfully with only 3 non-critical warnings related to CSS custom properties. These warnings indicate that variables declared using var() cannot be statically validated, which is expected behavior and does not affect functionality or performance. |
 
