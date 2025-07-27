@@ -42,6 +42,16 @@ I've tested my deployed project to check for responsiveness issues.
 
 ## Browser Compatibility
 
+I've tested my deployed project on multiple browsers to check for compatibility issues.
+
+| Page | Chrome | Firefox | Safari | Notes |
+| --- | --- | --- | --- | --- |
+| Home | ![screenshot](documentation/testing/browser-compatibility/home-chrome.jpeg) | ![screenshot](documentation/testing/browser-compatibility/home-firefox.jpeg) | ![screenshot](documentation/testing/browser-compatibility/home-safari.jpeg) | Works as expected |
+| All Episodes | ![screenshot](documentation/testing/browser-compatibility/all-episodes-chrome.jpeg) | ![screenshot](documentation/testing/browser-compatibility/all-episodes-firefox.jpeg) | ![screenshot](documentation/testing/browser-compatibility/all-episodes-safari.jpeg) | Works as expected |
+| Sponsoring | ![screenshot](documentation/testing/browser-compatibility/sponsor-chrome.jpeg) | ![screenshot](documentation/testing/browser-compatibility/sponsor-firefox.jpeg) | ![screenshot](documentation/testing/browser-compatibility/sponsor-safari.jpeg) | Works as expected |
+| Success | ![screenshot](documentation/testing/browser-compatibility/success-chrome.jpeg) | ![screenshot](documentation/testing/browser-compatibility/success-firefox.jpeg) | ![screenshot](documentation/testing/browser-compatibility/success-safari.jpeg) | Works as expected |
+| 404 | ![screenshot](documentation/testing/browser-compatibility/404-chrome.jpeg) | ![screenshot](documentation/testing/browser-compatibility/404-firefox.jpeg) | ![screenshot](documentation/testing/browser-compatibility/404-safari.jpeg) | Works as expected |
+
 ## Lighthouse Audit
 
 ## Defensive Programming
