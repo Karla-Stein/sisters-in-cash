@@ -29,6 +29,17 @@ I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-val
 
 ## Responsiveness
 
+I've tested my deployed project to check for responsiveness issues.
+
+| Page | Mobile | Tablet | Desktop | Notes |
+| --- | --- | --- | --- | --- |
+| Home | ![screenshot](documentation/testing/responsiveness/home-mobil-responsiveness.jpeg) | ![screenshot](documentation/testing/responsiveness/home-tablet-responsiveness.jpeg) | ![screenshot](documentation/testing/responsiveness/home-desktop-responsiveness.jpeg) | Works as expected |
+| All Episodes | ![screenshot](documentation/testing/responsiveness/all-episodes-mobile.jpeg) | ![screenshot](documentation/testing/responsiveness/all-episodes-tablet-responsiveness.jpeg) | ![screenshot](documentation/testing/responsiveness/all-episodes-desktop-responsiveness.jpeg) | Works as expected |
+| Sponsoring | ![screenshot](documentation/testing/responsiveness/sponsoring-mobile-responsiveness.jpeg) | ![screenshot](documentation/testing/responsiveness/sponsoring-tablet-responsiveness.jpeg) | ![screenshot](documentation/testing/responsiveness/sponsoring-desktop-responsiveness.jpeg) | Works as expected |
+| Success | ![screenshot](documentation/testing/responsiveness/success-mobile-responsiveness.jpeg) | ![screenshot](documentation/testing/responsiveness/success-tablet-responsiveness.jpeg) | ![screenshot](documentation/testing/responsiveness/success-desktop-responsiveness.jpeg) | Works as expected |
+| 404 | ![screenshot](documentation/testing/responsiveness/404-mobile-responsiveness.jpeg) | ![screenshot](documentation/testing/responsiveness/404-tablet-responsiveness.jpeg) | ![screenshot](documentation/testing/responsiveness/404-desktop-responsiveness.jpeg) | Works as expected |
+
+
 ## Browser Compatibility
 
 ## Lighthouse Audit
