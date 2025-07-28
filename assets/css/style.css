@@ -28,6 +28,7 @@ h1{
     /* shadow code perplexity output */
     text-shadow: 0 0 10px var(--primary-color),  0 0 20px var(--highlight-color);
     color: var(--primary-color);
+    font-size: 5rem;
     
 }
 
