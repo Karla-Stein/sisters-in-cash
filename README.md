@@ -217,7 +217,7 @@ Font Awesome helps support a clean, user-friendly interface while maintaining pe
 | [![badge](https://img.shields.io/badge/W3Schools-grey?logo=w3schools&logoColor=04AA6D)](https://www.w3schools.com) | Tutorials/Reference Guide |
 | [![badge](https://img.shields.io/badge/StackOverflow-grey?logo=stackoverflow&logoColor=F58025)](https://stackoverflow.com) | Troubleshooting and Debugging |
 | [![badge](https://img.shields.io/badge/Perplexity-grey?logo=perplexity&logoColor=1FB8CD)](https://www.perplexity.ai) | Help debug, troubleshoot, and explain things. |
-
+| [![badge](https://img.shields.io/badge/Squoosh-grey?logo=googlechrome&logoColor=4285F4)](https://squoosh.app) | Used to resize and convert images to .webp for performance optimization. |
 
 ## Agile Development Process
 
