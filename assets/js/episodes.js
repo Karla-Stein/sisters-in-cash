@@ -1,4 +1,5 @@
 /* jshint esversion: 11 */
+/* global bootstrap */
 
 // Step 1: Define episodes in a simple JS array
 const allEpisodes = [
