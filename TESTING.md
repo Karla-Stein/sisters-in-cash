@@ -34,7 +34,7 @@ I have used the recommended [JSHint](https://jshint.com/) to validate my JavaScr
 | Directory | File | Screenshot | Notes
 | --- | --- | --- | --- |
 | assets | [navbar.js](https://karla-stein.github.io/sisters-in-cash/assets/js/navbar.js) | ![screenshot](documentation/testing/validation/navbar-jshint.jpeg) | No warnings
-| assets | [navbar.js](https://karla-stein.github.io/sisters-in-cash/assets/js/episodes.js) | ![screenshot](documentation/testing/validation/episodes-jshint.jpeg) | No warnings
+| assets | [episodes.js](https://karla-stein.github.io/sisters-in-cash/assets/js/episodes.js) | ![screenshot](documentation/testing/validation/episodes-jshint.jpeg) | No warnings
 
 
 

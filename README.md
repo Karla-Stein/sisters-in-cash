@@ -235,7 +235,7 @@ This approach helped focus development on real user goals, avoid scope creep, an
 ### GitHub Issues
 
 [GitHub Issues](https://www.github.com/karla-stein/sisters-in-cash/issues) 
-served as an another Agile tool. There, I managed my User Stories and Milestone tasks, and tracked any issues/bugs.
+served as an another Agile tool. There, I managed my User Stories and tracked any issues.
 
 | Link | Screenshot |
 | --- | --- |
@@ -353,6 +353,9 @@ Tools & Resources
 | [Google Fonts](https://fonts.google.com/) | Fonts used: *Chivo* and *Inter* for site typography. |
 | [Unsplash](https://unsplash.com/photos/condenser-microphone-with-black-background-OKLqGsCT8qs) | Source of royalty-free hero image used throughout the website. |
 | [ColorPicker](https://imagecolorpicker.com/) | Used to identify and extract precise color values for the site palette. |
+| [all-episodes-old.html](https://github.com/Karla-Stein/sisters-in-cash/blob/4e6855ab94d5b5a321338d08e6b81e45b43c9f61/all-episodes-old.html) | Before converting to JavaScript, the all-episodes code was done in pure HTML. |
+| [episodes.js](https://karla-stein.github.io/sisters-in-cash/assets/js/episodes.js) |  With the help of PerplexityAI and my mentor Tim, he helped refactor all of the raw (non-DRY) HTML code into a re-usable JavaScript modal, which also helped increase the page-load speed having one dynamic embedded iframe for the podcast, instead of dozens. 
+|
 
 
 ### Media
