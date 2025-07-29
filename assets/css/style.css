@@ -206,4 +206,8 @@ html {
  }
 }
 
- 
+@media screen and (max-width: 492px) {
+ #hero{
+   background-image: url("../images/matt-botsford-mobile.webp") no-repeat center center/cover;;
+ }
+}
