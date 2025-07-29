@@ -2,7 +2,7 @@
 /* jshint esversion: 11 */
 
 //   JavaScript code to ensure the Bootstrap mobile navbar collapses when navigating to in-page links
-//   perplexity output/ the Javascript from the homepage didn't work here
+//   perplexity output/ refined by mentor Tim Nelson
 
 document
   .querySelectorAll(".navbar-collapse .nav-link, .navbar-collapse .dropdown-item")

@@ -27,6 +27,17 @@ I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-val
 
 ### JavaScript
 
+Before converting to JavaScript, the all-episodes code was done in pure HTML, which can be found in the historical [all-episodes-old.html](https://github.com/Karla-Stein/sisters-in-cash/blob/4e6855ab94d5b5a321338d08e6b81e45b43c9f61/all-episodes-old.html). With the help of PerplexityAI and my mentor Tim, he helped refactor all of the raw (non-DRY) HTML code into a re-usable JavaScript modal, which also helped increase the page-load speed having one dynamic embedded iframe for the podcast, instead of dozens.
+
+I have used the recommended [JSHint](https://jshint.com/) to validate my JavaScript files.
+
+| Directory | File | Screenshot | Notes
+| --- | --- | --- | --- |
+| assets | [navbar.js](https://karla-stein.github.io/sisters-in-cash/assets/js/navbar.js) | ![screenshot](documentation/testing/validation/navbar-jshint.jpeg) | No warnings
+| assets | [navbar.js](https://karla-stein.github.io/sisters-in-cash/assets/js/episodes.js) | ![screenshot](documentation/testing/validation/episodes-jshint.jpeg) | No warnings
+
+
+
 ## Responsiveness
 
 I've tested my deployed project to check for responsiveness issues.
