@@ -260,6 +260,8 @@ This method helped me stay focused on delivering a functional, meaningful site w
 
 ## Testing
 
+> **Note:** For detailed testing evidence and validation results, see the [TESTING.md](TESTING.md) file.
+
 ## Deployment
 
 ### GitHub Pages
@@ -323,6 +325,7 @@ README Guidance
 
 Code References & Tutorials
 - Code Institute: General structure and best practices were guided by Code Institute course materials. Javascript code was partly provided by Code Institute.
+- Mentor Tim Nelson: Helped refine and adapt the JavaScript implementation for the All Episodes page using Perplexity AI output as a foundation.
 - W3Schools & MDN Web Docs: Used as primary references for HTML and CSS.
 - Stack Overflow: Used sparingly to help resolve specific issues during development.
 - Perplexity – Used to quickly resolve development issues and clarify technical concepts.
