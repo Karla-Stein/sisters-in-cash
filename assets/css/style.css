@@ -18,7 +18,7 @@ body {
   margin-top: 54px;
 
 }
-
+ 
 h1,
 h2{
     font-family: var(--primary-font);
@@ -28,12 +28,9 @@ h1{
     /* shadow code perplexity output */
     text-shadow: 0 0 10px var(--primary-color),  0 0 20px var(--highlight-color);
     color: var(--primary-color);
-    
+    font-size: 5rem;
 }
 
-section h1{
-   font-size: 5rem; 
-}
 
 h2{
  margin-top: 10px;
@@ -190,23 +187,20 @@ html {
 
 /* Media queries */
 @media screen and (max-width: 768px) {
- section h1{
-  font-size: 4rem;
- }
+  h1 {
+    font-size: 4rem;
+  }
 }
-
 @media screen and (max-width: 492px) {
- section h1{
-  font-size: 3rem;
- }
+  h1 {
+    font-size: 3rem;
+  }
 }
-
 @media screen and (max-width: 376px) {
- section h1{
-  font-size: 2.5rem;
- }
+  h1{
+    font-size: 2.5rem;
+  }
 }
-
 @media screen and (max-width: 576px) {
  #hero{
    background-image: url("../images/matt-botsford-mobile.webp") no-repeat center center/cover;;
