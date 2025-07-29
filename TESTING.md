@@ -72,8 +72,8 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 | Page | Mobile | Desktop |
 | --- | --- | --- |
 | Home | ![screenshot](documentation/lighthouse/) | ![screenshot](documentation/lighthouse/index-desktop.jpeg) |
-| All Episodes| ![screenshot](documentation/lighthouse/mobile-gallery.png) | ![screenshot](documentation/lighthouse/all-episodes-desktop.jpeg) |
-| Sponsoring | ![screenshot](documentation/lighthouse/mobile-signup.png) | ![screenshot](documentation/lighthouse/sponsor-desktop.jpeg) |
+| All Episodes| ![screenshot](documentation/lighthouse/all-episodes-mobile.jpeg) | ![screenshot](documentation/lighthouse/all-episodes-desktop.jpeg) |
+| Sponsoring | ![screenshot](documentation/lighthouse/sponsor-mobile.jpeg) | ![screenshot](documentation/lighthouse/sponsor-desktop.jpeg) |
 | Success | ![screenshot](documentation/lighthouse/success-mobile.jpeg) | ![screenshot](documentation/lighthouse/success-desktop.jpeg) |
 | 404 | ![screenshot](documentation/lighthouse/404-mobile.jpeg) | ![screenshot](documentation/lighthouse/404-dektop.jpeg) |
 
