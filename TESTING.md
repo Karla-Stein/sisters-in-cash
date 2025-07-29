@@ -71,11 +71,11 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 
 | Page | Mobile | Desktop |
 | --- | --- | --- |
-| Home | ![screenshot](documentation/lighthouse/mobile-home.png) | ![screenshot](documentation/lighthouse/desktop-home.png) |
-| Gallery | ![screenshot](documentation/lighthouse/mobile-gallery.png) | ![screenshot](documentation/lighthouse/desktop-gallery.png) |
-| Signup | ![screenshot](documentation/lighthouse/mobile-signup.png) | ![screenshot](documentation/lighthouse/desktop-signup.png) |
-| Confirmation | ![screenshot](documentation/lighthouse/mobile-confirmation.png) | ![screenshot](documentation/lighthouse/desktop-confirmation.png) |
-| 404 | ![screenshot](documentation/lighthouse/mobile-404.png) | ![screenshot](documentation/lighthouse/desktop-404.png) |
+| Home | ![screenshot](documentation/lighthouse/) | ![screenshot](documentation/lighthouse/index-desktop.jpeg) |
+| All Episodes| ![screenshot](documentation/lighthouse/mobile-gallery.png) | ![screenshot](documentation/lighthouse/all-episodes-desktop.jpeg) |
+| Sponsoring | ![screenshot](documentation/lighthouse/mobile-signup.png) | ![screenshot](documentation/lighthouse/sponsor-desktop.jpeg) |
+| Success | ![screenshot](documentation/lighthouse/success-mobile.jpeg) | ![screenshot](documentation/lighthouse/success-desktop.jpeg) |
+| 404 | ![screenshot](documentation/lighthouse/404-mobile.jpeg) | ![screenshot](documentation/lighthouse/404-dektop.jpeg) |
 
 
 ## Defensive Programming
