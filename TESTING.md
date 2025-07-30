@@ -80,6 +80,33 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 
 ## Defensive Programming
 
+Defensive programming was manually tested with the below user acceptance testing:
+
+### Sponsor Form
+
+The sponsor form collects details from potential sponsors. Inputs are required where necessary and must not accept empty or invalid data. Manual testing was performed to ensure all validations work correctly, and the form behaves securely under different input scenarios.
+
+| Field | Expected | Testing | Result | Screenshot |
+| --- | --- | --- | --- | --- |
+| **First Name** | Required. Must not accept empty input. | Tried submitting form without entering a name. | Submission blocked with required field warning. | ![screenshot](documentation/defensive/sponsor-first-name.jpeg) |
+| **Last Name** | Required. Must not accept empty input. | Tried submitting form without entering a name. | Submission blocked with required field warning. | ![screenshot](documentation/defensive/sponsor-last-name.jpeg) |
+| **Company** | Required. Must not accept empty input. | Tried submitting form without entering a name. | Submission blocked with required field warning. | ![screenshot](documentation/defensive/sponsor-company.jpeg) |
+| **Company Website** | Required. Must not accept empty input.| Tried submitting form without entering data. | Submission blocked with required field warning. | ![screenshot](documentation/defensive/url-empty.jpeg) |
+| | Must accept valid URL | Tried entering invalid data. | Submission blocked with expected data prompt. | ![screenshot](documentation/defensive/url-invalid-data.jpeg) |
+| **Contact Number** | Required. Must not accept empty input. | Tried submitting without a number. | Submission blocked with required field warning. | ![screenshot](documentation/defensive/sponsor-phone.jpeg) |
+| **Email** | Required. Must not accept empty.| Tried submitting without data. | Submission blocked with required field warning. | ![screenshot](documentation/defensive/sponsor-email-empty.jpeg) |
+| | Must be in a valid email format. | Tried submitting with wrong data. | Submission blocked with expected data prompt. | ![screenshot](documentation/defensive/sponsor-email-invalid.jpeg) |
+| **Message** | Required. Must not accept empty input. | Tried submitting without a message. | Submission blocked due to missing required content. | ![screenshot](documentation/defensive/sponsor-message.jpeg) |
+| **Submit Button** | Should only submit if all validations pass. | Filled required fields with valid data and submitted. | Form submitted successfully and expected confirmation shown. | ![screenshot](documentation/defensive/sponsor-confirm.jpeg) |
+
+#### Summary
+
+- **Expected**: All required inputs must be filled with valid data before submission.  
+- **Testing**: Attempted to submit with missing and invalid input data.  
+- **Result**: Validations correctly blocked submission in all invalid scenarios.  
+- **Fixes**: No issues found. Used `required` attributes and appropriate input `type=""` settings to ensure input validation.
+
+
 ## User Story Testing
 
 ## Bugs
