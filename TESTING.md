@@ -127,6 +127,23 @@ The sponsor form collects details from potential sponsors. Inputs are required w
 
 ## User Story Testing
 
+The following table outlines how the key user stories defined at the start of this project were successfully implemented and manually tested. Each entry connects a real user need to a specific feature or section on the website, and includes a screenshot to demonstrate its presence and functionality.
+
+These tests help confirm that the website meets its intended goals from the user’s perspective, ensuring clarity and usability.
+
+| Target | Expectation | Outcome | Screenshot | 
+| --- | --- | --- | --- | 
+| As a content creator | I want to easily find new podcast episodes | so that I can learn from my peers’ tactics and real experiences. | ![screenshot](documentation/user-story-testing/user-story-1.jpeg) |
+| As a new user	| I want to easily find the community links | so that I can benefit from exclusive insights shared within the community.| ![screenshot](documentation/user-story-testing/community-links.jpeg) |
+| As a new user	| I need to find links to external resources | so that I can verify the credibility of the podcast or its guests. | ![screenshot](documentation/user-story-testing/external-resources.jpeg) |
+| As a sponsor | I need to find a contact form | so that I can express interest in sponsoring the podcast.| ![screenshot](documentation/user-story-testing/sponsor-form.jpeg) |
+| As an industry peer	 | I need to find a contact form | so that I can express interest in being featured as a guest. | ![screenshot](documentation/user-story-testing/guest-form.jpeg) |
+| As a sponsor | I need to view a list of featured guest speakers	 | so that I can evaluate if they align with my brand or product before sponsoring. | ![screenshot](documentation/user-story-testing/guest-list.jpeg) |
+| As an industry peer | I need to view upcoming events	 | so that I can decide if I want to participate or collaborate. | ![screenshot](documentation/user-story-testing/events.jpeg) |
+| As a user | I want to see a custom 404 error page when I land on a broken or non-existent link | so I know I’ve made a mistake and can easily navigate back to the site. | ![screenshot](documentation/user-story-testing/404.jpeg) |
+| As a new user	 | I want to view a carousel of community images in the community section | so I can get a visual sense of the people, vibe, and value of joining the network. | ![screenshot](documentation/user-story-testing/carousel.jpeg) |
+| As a user interested in attending events| I want to view a map with the event location | so I can easily understand where it’s taking place and plan my visit. | ![screenshot](documentation/user-story-testing/map.jpeg) |
+
 ## Bugs
 
 ### Fixed Bugs
