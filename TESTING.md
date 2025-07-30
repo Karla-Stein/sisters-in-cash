@@ -99,6 +99,24 @@ The sponsor form collects details from potential sponsors. Inputs are required w
 | **Message** | Required. Must not accept empty input. | Tried submitting without a message. | Submission blocked due to missing required content. | ![screenshot](documentation/defensive/sponsor-message.jpeg) |
 | **Submit Button** | Should only submit if all validations pass. | Filled required fields with valid data and submitted. | Form submitted successfully and expected confirmation shown. | ![screenshot](documentation/defensive/sponsor-confirm.jpeg) |
 
+
+
+### Be Our Guest Form
+
+| Field | Expected | Testing | Result | Screenshot |
+| --- | --- | --- | --- | --- |
+| **Name** | Required. Must not accept empty input. | Tried submitting form without entering a name. | Submission blocked with required field warning. | ![screenshot](documentation/defensive/guest-name.jpeg) |
+| **Instagram Link** | Required. Must not accept empty input.| Tried submitting form without entering data. | Submission blocked with required field warning. | ![screenshot](documentation/defensive/guest-instagram.jpeg) |
+| | Must accept valid URL | Tried entering invalid data. | Submission blocked with expected data prompt. | ![screenshot](documentation/defensive/guest-instagram-invalid.jpeg) |
+| **Contact Number** | Required. Must not accept empty input. | Tried submitting without a number. | Submission blocked with required field warning. | ![screenshot](documentation/defensive/guest-contact.jpeg) |
+| **Email** | Required. Must not accept empty.| Tried submitting without data. | Submission blocked with required field warning. | ![screenshot](documentation/defensive/guest-email.jpeg) |
+| | Must be in a valid email format. | Tried submitting with wrong data. | Submission blocked with expected data prompt. | ![screenshot](documentation/defensive/guest-email-invalid.jpeg) |
+| **Message** | Required. Must not accept empty input. | Tried submitting without a message. | Submission blocked due to missing required content. | ![screenshot](documentation/defensive/guest-message.jpeg) |
+| **Submit Button** | Should only submit if all validations pass. | Filled required fields with valid data and submitted. | Form submitted successfully and expected confirmation shown. | ![screenshot](documentation/defensive/guest-confirm.jpeg) |
+
+
+
+
 #### Summary
 
 - **Expected**: All required inputs must be filled with valid data before submission.  
