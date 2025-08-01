@@ -26,7 +26,7 @@ const allEpisodes = [
       <p><strong>Host:</strong> Jessica</p>
 
       <p>Guest speaker’s IG handle: 
-        <a href="https://instagram.com/lina_marxsen" target="_blank">@lina-marxsen</a>
+        <a href="https://instagram.com/lina_marxsen" target="_blank" rel="noopener">@lina-marxsen</a>
       </p>
 
       <p><strong>This Episode is featured by LegalFans & 4based</strong></p>
@@ -84,7 +84,7 @@ const allEpisodes = [
                 <p>Host: Jessica</p>
                 <p>
                   Guest speakers IG handle:
-                  <a href="https://instagram.com/lina_marxsen">@lina-marxsen</a>
+                  <a href="https://instagram.com/lina_marxsen" target="_blank" rel="noopener">@lina-marxsen</a>
                 </p>
                 <p>
                   <strong
@@ -146,7 +146,7 @@ const allEpisodes = [
                 <p>Host: Jessica</p>
                 <p>
                   Guest speakers IG handle:
-                  <a href="https://instagram.com/thechrissyleblanc">@thechrissyleblanc</a></p>
+                  <a href="https://instagram.com/thechrissyleblanc" target="_blank" rel="noopener">@thechrissyleblanc</a></p>
                   <strong
                     >This Episode is featured by LegalFans & 4based
                   </strong>
@@ -200,7 +200,7 @@ const allEpisodes = [
                team takes over operations.</p>
 
                <p>Host: Jessy</p>
-               <p>Guest speaker IG handle: <a href="https://instagram.com/char.borley">@char.borley</a></p>
+               <p>Guest speaker IG handle: <a href="https://instagram.com/char.borley" target="_blank" rel="noopener">@char.borley</a></p>
                 <p>
                   <strong
                     > This episode is featured by 4based and LegalFans- use the Code Jessy25 to get 25% off & 4based
@@ -228,7 +228,7 @@ const allEpisodes = [
                <p>• Upcoming public appearances include XBiz, Venus Berlin, and potentially a Viking World Gala event in Athens</p>
                <p>Keep your eye on your content and don't hesitate to ask for help with protection. Everybody is in danger in today's digital environment, so please protect your content.</p>
                <p>Host: Jessy</p>
-               <p>Guest speakers insagram handle: <a href="https://instagram.com/tanyavirago">@tanyavirago</a></p>
+               <p>Guest speakers insagram handle: <a href="https://instagram.com/tanyavirago" target="_blank" rel="noopener">@tanyavirago</a></p>
                <p><strong>This Episode is featured by 4based & LegalFans</strong></p>
                <p><strong>Use the code Jessy25 to get 25%off on Legal Fans and protect your content!</strong></p>
         `,
@@ -275,7 +275,7 @@ const allEpisodes = [
                     4Based, where creators earn commission not just on their own content but from users they refer
                      to the platform.</p>
                 <p>Host: Jessy</p>
-                <p>Guest speakers IG handle: <a href="https://instgram.com/lydiablack.xo">@lydiablack.xo</a></p>
+                <p>Guest speakers IG handle: <a href="https://instgram.com/lydiablack.xo" target="_blank" rel="noopener">@lydiablack.xo</a></p>
                 <p>
                   <strong
                     >This Episode is featured by LegalFans & 4based
@@ -327,7 +327,7 @@ const allEpisodes = [
                    conversation about creator empowerment and business strategies!
                 </p>
                 <p>Host: Jessy</p>
-                <p>Guest speakers IG handle: <a href="https://instagram.com/zuzusweet_real">@zuzusweet_real</a></p>
+                <p>Guest speakers IG handle: <a href="https://instagram.com/zuzusweet_real" target="_blank" rel="noopener">@zuzusweet_real</a></p>
                 <p>
                   <strong
                     >This Episode is featured by LegalFans & 4based
@@ -380,7 +380,7 @@ const allEpisodes = [
                   for seasoned creators and newcomers alike.
                 </p>
                 <p>Host: Jessy</p>
-                <p>Guest speakers IG handle: <a href="https://instagram.com/hailee.summerr">@hailee.summerr</a></p>
+                <p>Guest speakers IG handle: <a href="https://instagram.com/hailee.summerr" target="_blank" rel="noopener">@hailee.summerr</a></p>
                 <p>
                   <strong
                     >This Episode is featured by LegalFans & 4based
@@ -411,7 +411,7 @@ const allEpisodes = [
                 <p>
                   Host: Jessy
                 </p>
-                <p>Guest speakers IG handle: <a href="https://instagram.com/hailee.summerr">@hailee.summerr</a></p>
+                <p>Guest speakers IG handle: <a href="https://instagram.com/hailee.summerr" target="_blank" rel="noopener">@hailee.summerr</a></p>
                 <p>
                   <strong
                     >This Episode is featured by LegalFans & 4based
@@ -445,7 +445,7 @@ const allEpisodes = [
                 <p>
                   Host: Jessy
                 </p>
-                <p>Guest speakers IG handle: <a href="https://instagram.com/kateepeaches">@kateepeaches</a></p>
+                <p>Guest speakers IG handle: <a href="https://instagram.com/kateepeaches" target="_blank" rel="noopener">@kateepeaches</a></p>
                 <p>
                   <strong
                     >This Episode is featured by LegalFans & 4based
@@ -492,7 +492,7 @@ const allEpisodes = [
                     "Coffee with Caitlyn," available on the ModelSearcher YouTube channel.
                 </p>
                 <p>Host: Jessy</p>
-                <p>Guest speakers IG handle: <a href="https://instagram.com/ms.caitlyn.brooks">@ms.caitlyn.brooks</a></p>
+                <p>Guest speakers IG handle: <a href="https://instagram.com/ms.caitlyn.brooks" target="_blank" rel="noopener">@ms.caitlyn.brooks</a></p>
                 <p>
                     <strong
                     >This Episode is featured by LegalFans & 4based
@@ -535,7 +535,7 @@ const allEpisodes = [
                 <p>
               Host: Jessy
                 </p>
-                <p>Guest speakers IG handle: <a href="https://instagram.com/djbritstar">@djbritstar</a></p>
+                <p>Guest speakers IG handle: <a href="https://instagram.com/djbritstar" target="_blank" rel="noopener">@djbritstar</a></p>
                 <p>
                   <strong
                     >This Episode is featured by LegalFans & 4based
@@ -578,7 +578,7 @@ const allEpisodes = [
                 <p>
                   Host: Jessy
                 </p>
-                <p>Guest speakers IG handle: <a href="https://instagram.com/sandylein_999">@sandylein_999</a></p>
+                <p>Guest speakers IG handle: <a href="https://instagram.com/sandylein_999" target="_blank" rel="noopener">@sandylein_999</a></p>
                 <p>
                   <strong
                     >This Episode is featured by LegalFans & 4based
@@ -619,7 +619,7 @@ const allEpisodes = [
                 <p>
                   Host: Jessy
                 </p>
-                Guest speakers IG handle: <a href="https://instagram.com/marvin_kraa">@marvin_kraa</a>
+                Guest speakers IG handle: <a href="https://instagram.com/marvin_kraa" target="_blank" rel="noopener">@marvin_kraa</a>
                 <p>
                   <strong
                     >This Episode is featured by ModelSearcher.com & 4based
@@ -668,7 +668,7 @@ const allEpisodes = [
                   testament to the power of perseverance.
                 </p>
                 <p>Host: Jessy</p>
-                <p>Guest speakers IG handle: <a href="https://instagram.com/justlucyofficial">@justlucyofficial</a></p>
+                <p>Guest speakers IG handle: <a href="https://instagram.com/justlucyofficial" target="_blank" rel="noopener">@justlucyofficial</a></p>
     `,
     embedUrl:
       "https://open.spotify.com/embed/episode/5EIcwZp4w6NRHwShJVTXP1?utm_source=generator&theme=0",
@@ -709,7 +709,7 @@ const allEpisodes = [
                   entertainment industry.
                 </p>
                 <p>Host: Jessy</p>
-                <p>Guest speakers IG handle: <a href="https://instagram.com/ana.and.mr.lingus">@ana.and.mr.lingus</a></p>
+                <p>Guest speakers IG handle: <a href="https://instagram.com/ana.and.mr.lingus" target="_blank" rel="noopener">@ana.and.mr.lingus</a></p>
                 <p>
                   <strong
                     >This Episode is featured by ModelSearcher & 4based
@@ -760,7 +760,7 @@ const allEpisodes = [
                   a deeper understanding of the adult entertainment industry.
                 </p>
                 <p>Host: Jessy</p>
-                <p>Guest speakers IG handle: <a href="https://instagram.com/djbritstar">@djbritstar</a></p>
+                <p>Guest speakers IG handle: <a href="https://instagram.com/djbritstar" target="_blank" rel="noopener">@djbritstar</a></p>
     `,
     embedUrl:
       "https://open.spotify.com/embed/episode/5FhaqGO72j0rXdkNStM2OX?utm_source=generator&theme=0",
@@ -803,7 +803,7 @@ const allEpisodes = [
                   and the importance of maintaining authenticity in a rapidly evolving digital landscape.
                 </p>
                 <p>Host: Jessy</p>
-                <p>Guest speakers IG handle: <a href="https://www.instagram.com/tilly.toy.officiall">@tilly.toy.official</a></p>
+                <p>Guest speakers IG handle: <a href="https://www.instagram.com/tilly.toy.officiall" target="_blank" rel="noopener">@tilly.toy.official</a></p>
                 <p>
                   <strong
                     >This Episode is featured by ModleSearcher
@@ -852,7 +852,7 @@ const allEpisodes = [
                   Amsterdam, and the vibrant community spirit that binds the industry together.
                 </p>
                 <p>Host: Jessy</p>
-                <p>Guest speakers IG handle: <a href="https://www.instagram.com/itsliahlou">@itsliahlou</a></p>
+                <p>Guest speakers IG handle: <a href="https://www.instagram.com/itsliahlou" target="_blank" rel="noopener">@itsliahlou</a></p>
                 <p>
                   <strong
                     >This Episode is featured by ModelSearcher
@@ -895,7 +895,7 @@ const allEpisodes = [
                   with Juliane Krauss is your perfect fit.
                 </p>
                 <p>Host: Jessy</p>
-                <p>Guest speakers IG handle: <a href="https://www.instagram.com/julesinleather">@julesinleather</a></p>
+                <p>Guest speakers IG handle: <a href="https://www.instagram.com/julesinleather" target="_blank" rel="noopener">@julesinleather</a></p>
     `,
     embedUrl:
       "https://open.spotify.com/embed/episode/2rQauJ3jrnqmAta7VAZZg4?utm_source=generator&theme=0",
@@ -937,7 +937,7 @@ const allEpisodes = [
                   amidst a constantly evolving digital world.
                 </p>
                 <p>Host: Jessy</p>
-                <p>Guest speakers IG handle: <a href="https://www.instagram.com/amberkarisbassick">@amberkarisbassick</a></p>
+                <p>Guest speakers IG handle: <a href="https://www.instagram.com/amberkarisbassick" target="_blank" rel="noopener">@amberkarisbassick</a></p>
     `,
     embedUrl:
       "https://open.spotify.com/embed/episode/3C78o6bKsBpc9KHFIkXe4k?utm_source=generator&theme=0",
@@ -981,7 +981,7 @@ const allEpisodes = [
                   hustle, where every creator finds a reflection of their own story.
                 </p>
                 <p>Host: Jessy</p>
-                <p>Guest speakers IG handle: <a href="https://www.instagram.com/roxy_s89">@roxy_s89</a></p>
+                <p>Guest speakers IG handle: <a href="https://www.instagram.com/roxy_s89" target="_blank" rel="noopener">@roxy_s89</a></p>
                 <p>
                   <strong
                     >This Episode is featured by ModelSearcher & CreatorTraffic
@@ -1036,7 +1036,7 @@ const allEpisodes = [
                   savvy can redefine what it means to be a model in the modern age.
                 </p>
                  <p>Host: Jessy</p>
-                <p>Guest speakers IG handle: <a href="https://www.instagram.com/costina_got_curves">@costina_got_curves</a></p>
+                <p>Guest speakers IG handle: <a href="https://www.instagram.com/costina_got_curves" target="_blank" rel="noopener">@costina_got_curves</a></p>
     `,
     embedUrl:
       "https://open.spotify.com/embed/episode/1RBUBWP8sU1yXp7twIgr7O?utm_source=generator&theme=0",
@@ -1082,7 +1082,7 @@ const allEpisodes = [
                   the adult industry.
                 </p>
                  <p>Host: Jessy</p>
-                <p>Guest speakers IG handle: <a href="https://www.instagram.com/kim_judge__">@kim_judge__</a></p>
+                <p>Guest speakers IG handle: <a href="https://www.instagram.com/kim_judge__" target="_blank" rel="noopener">@kim_judge__</a></p>
     `,
     embedUrl:
       "https://open.spotify.com/embed/episode/7tHmmRCcWNO58a3KNxTtZg?utm_source=generator&theme=0",
@@ -1123,7 +1123,7 @@ const allEpisodes = [
                   as we uncover the value of ModelSearcher.
                 </p>
                 <p>Host: Jessy</p>
-                <p>Guest speaker are Jose and Andy from <a href="https://instagram.com/modelsearcher_com">@modelsearcher_com</a></p>
+                <p>Guest speaker are Jose and Andy from <a href="https://instagram.com/modelsearcher_com" target="_blank" rel="noopener">@modelsearcher_com</a></p>
                 <p>
                   <strong
                     >This Episode is featured by ModelSearcher CreatorTraffic
@@ -1166,7 +1166,7 @@ const allEpisodes = [
                   Miss Jackson.
                 </p>
                 <p>Host: Jessy</p>
-                <p>Guest speakers IG handle: <a href="https://instagram.com/missjacksonsworldofficial">@missjacksonsworldofficial</a>
+                <p>Guest speakers IG handle: <a href="https://instagram.com/missjacksonsworldofficial" target="_blank" rel="noopener">@missjacksonsworldofficial</a>
                 </p>
                 <p>
                   <strong
@@ -1213,7 +1213,7 @@ const allEpisodes = [
                   and podcasting. Tune in for an enlightening conversation with Stefan Muehlbauer!
                 </p>
                 <p>Host: Jessy</p>
-                <p>Guest speakers IG handle: <a href="https://instagram.com/affpal">@affpal</a></p>
+                <p>Guest speakers IG handle: <a href="https://instagram.com/affpal" target="_blank" rel="noopener">@affpal</a></p>
     `,
     embedUrl:
       "https://open.spotify.com/embed/episode/1VBRc6YZY1Vm3XD5Z61cHl?utm_source=generator&theme=0",
@@ -1258,7 +1258,7 @@ const allEpisodes = [
                   won’t want to miss!
                 </p>
                 <p>Host: Jessy</p>
-                <p>Guest speakers IG handle: <a href="https://instagram.com/eslunalove_">@eslunalove_</a></p>
+                <p>Guest speakers IG handle: <a href="https://instagram.com/eslunalove_" target="_blank" rel="noopener">@eslunalove_</a></p>
     `,
     embedUrl:
       "https://open.spotify.com/embed/episode/6Yuxj8wfFnuehjZVgTvLGm?utm_source=generator&theme=0",
@@ -1300,7 +1300,7 @@ const allEpisodes = [
                   these nuggets of wisdom!
                 </p>
                 <p>Host: Jessy</p>
-                <p>Guest speakers IG handle: <a href="https://instagram.com/andywullmer">@andywullmer</a></p>
+                <p>Guest speakers IG handle: <a href="https://instagram.com/andywullmer" target="_blank" rel="noopener">@andywullmer</a></p>
                 <p>
                   <strong
                     >This Episode is featured by CreatorTraffic
@@ -1342,7 +1342,7 @@ const allEpisodes = [
                   Thorsten Heim.
                 </p>
                 <p>Host: Jessy</p>
-                <p>Guest speakers IG handle: <a href="https://instagram.com/theexecutiveoutcomes">@theexecutiveoutcomes</a></p>
+                <p>Guest speakers IG handle: <a href="https://instagram.com/theexecutiveoutcomes" target="_blank" rel="noopener">@theexecutiveoutcomes</a></p>
                 <p>
                   <strong
                     >This Episode is featured by CreatorTraffic
