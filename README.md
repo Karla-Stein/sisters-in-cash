@@ -60,6 +60,9 @@ insights, and access to a peer-driven community.
 - A sponsorship inquiry form for brands.
 - External resources to verify credibility.
 - A regular updated section highlighting upcoming events.
+- Images for the community section to visualise the vibe of the community.
+- A 404 page that clarifies a non existend link.
+- A Google map that helps understanding where the events take place.
 
 
 #### 3. Structure
@@ -74,9 +77,9 @@ insights, and access to a peer-driven community.
 
 **User Flow**
 1. User lands on the homepage - reads a brief overview of the podcast’s mission and sees the latest episode.
-2. Navigates to the All Episodes page - listens to content covering content-creation, -protection, and -monetization topics.
-3. Visits the Community section - learns how to join and why it’s valuable for peers.
-4. Opens the Events page - checks upcoming talks or collaborations.
+2. Visits the Community section - learns how to join and why it’s valuable for peers.
+3. Navigates to the All Episodes page - listens to content covering content-creation, -protection, and -monetization topics.
+4. Visits the Events section - checks upcoming talks or collaborations.
 5. Goes to the Guest or Sponsor form - submits application to be featured or partner with the podcast.
 
 
