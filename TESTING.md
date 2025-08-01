@@ -170,7 +170,7 @@ The tables below outline the main warnings I encountered and how I addressed eac
 | Largest Contentful Paint element | I addressed this warning by resizing, reformatting and preloading the hero image in the <head> of the HTML to improve load priority. While the issue isn’t fully resolved, the render delay has significantly decreased, and overall Largest Contentful Paint (LCP) timing has improved. Since the performance score now falls within an acceptable range, I chose not to make further changes.| ![screenshot](documentation/lighthouse/lighthouse-warning/index-performance-3.jpeg) |
 | | | ![screenshot](documentation/lighthouse/lighthouse-warning/index-performance-2.jpeg) |
 | Reduce unused CSS | The unused CSS comes from Bootstrap and Font Awesome, which are included via CDN for convenience and development speed. While not all styles are used, the overall impact on performance is minimal. Since the site consistently achieves high Lighthouse scores, I decided to take no further action. | ![screenshot](documentation/lighthouse/lighthouse-warning/all-episode-performance-1.jpeg) |
-|
+
 
 
 
