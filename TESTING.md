@@ -174,6 +174,15 @@ The tables below outline the main warnings I encountered and how I addressed eac
 
 ## Final Fixes
 
+As a final step before submission, I revalidated the HTML and CSS to ensure that all recent code changes maintained compliance with best practices and accessibility standards. I also completed a last round of tidy-ups.
+Following fixes were made:
+
+- Labeled all implemented or borrowed code for clarity and attribution
+- Removed redundant and unused code for a cleaner codebase
+- Fixed broken navigation links on the 404 and success pages
+- Updated content requirements in README to match project expectations
+- Refined the user flow section in the README to clearly demonstrate the step-by-step journey a user takes when navigating the site.
+
 
 
 
