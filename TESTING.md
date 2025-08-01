@@ -144,13 +144,34 @@ These tests help confirm that the website meets its intended goals from the user
 | As a new user	 | I want to view a carousel of community images in the community section | so I can get a visual sense of the people, vibe, and value of joining the network. | ![screenshot](documentation/user-story-testing/carousel.jpeg) |
 | As a user interested in attending events| I want to view a map with the event location | so I can easily understand where it’s taking place and plan my visit. | ![screenshot](documentation/user-story-testing/map.jpeg) |
 
-## Bugs
+## Warnings
 
-### Fixed Bugs
+During the final stages of this project, I ran several Lighthouse audits to evaluate performance, accessibility and best practice. This process highlighted several warnings that didn’t break the functionality but impacted the overall user experience.
 
-### Unfixed Bugs
+These were valuable learning moments. Rather than ignoring them, I investigated each one and applied fixes where possible — balancing practicality, performance, and best practice.
+
+The tables below outline the main warnings I encountered and how I addressed each one:
+
+### Fixed Warnings
+
+| Warning | Solution | Screenshot
+| --- | --- | --- |
+| Uses deprecated APIs | This warning occurred because an `<h1>` tag was placed inside a `<section>` without an explicitly defined font-size. Although I removed the Bootstrap `display-1` class and targeted the `<h1>` using custom CSS and media queries, the warning remained. After several attempts, I replaced the `<section>` tag with a `<div>`, which resolved the issue and significantly improved my Best Practices score on all pages. | ![screenshot](documentation/lighthouse/lighthouse-warning/index-best-practice-1.jpeg) |
 
 
-### Known Issues
+
+### Unfixed Warnings
+
+| Warning | Justification | Screenshot |
+| --- | --- | --- |
+| Third-Party Cookies | This warning is caused by third-party embeds (Spotify, Google Maps, Bit.ly) which use their own cookies. Since I don’t control these external services, the issue can’t be resolved on my end.| ![screenshot](documentation/lighthouse/lighthouse-warning/index-desktop.jpeg) |
+| Properly size images  | Despite setting a custom CSS size and trying .webp format, the warning persisted and overall performance worsened. I reverted to the original image since my final Lighthouse score remained above 90, which I considered an acceptable outcome. | ![screenshot](documentation/lighthouse/lighthouse-warning/favicon.jpeg)  |
+| Eliminate render-blocking resources | These resources come from trusted third-party services like Bootstrap and Google Fonts. I don’t control how they load, and therefore this warning is out of my control. | ![screenshot](documentation/lighthouse/lighthouse-warning/index-performance-1.jpeg) |
+| Largest Contentful Paint element | I addressed this warning by resizing, reformatting and preloading the hero image in the <head> of the HTML to improve load priority. While the issue isn’t fully resolved, the render delay has significantly decreased, and overall Largest Contentful Paint (LCP) timing has improved. Since the performance score now falls within an acceptable range, I chose not to make further changes.| ![screenshot](documentation/lighthouse/lighthouse-warning/index-performance-3.jpeg) |
+| | | ![screenshot](documentation/lighthouse/lighthouse-warning/index-performance-2.jpeg) |
+| Reduce unused CSS | The unused CSS comes from Bootstrap and Font Awesome, which are included via CDN for convenience and development speed. While not all styles are used, the overall impact on performance is minimal. Since the site consistently achieves high Lighthouse scores, I decided to take no further action. | ![screenshot](documentation/lighthouse/lighthouse-warning/all-episode-performance-1.jpeg) |
+|
+
+
 
 
