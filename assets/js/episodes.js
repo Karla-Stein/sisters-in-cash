@@ -275,7 +275,7 @@ const allEpisodes = [
                     4Based, where creators earn commission not just on their own content but from users they refer
                      to the platform.</p>
                 <p>Host: Jessy</p>
-                <p>Guest speakers IG handle: <a href="https://instgram.com/lydiablack.xo" target="_blank" rel="noopener">@lydiablack.xo</a></p>
+                <p>Guest speakers IG handle: <a href="https://instagram.com/lydiablack.xo" target="_blank" rel="noopener">@lydiablack.xo</a></p>
                 <p>
                   <strong
                     >This Episode is featured by LegalFans & 4based
