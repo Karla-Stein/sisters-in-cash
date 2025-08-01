@@ -172,6 +172,10 @@ The tables below outline the main warnings I encountered and how I addressed eac
 | Reduce unused CSS | The unused CSS comes from Bootstrap and Font Awesome, which are included via CDN for convenience and development speed. While not all styles are used, the overall impact on performance is minimal. Since the site consistently achieves high Lighthouse scores, I decided to take no further action. | ![screenshot](documentation/lighthouse/lighthouse-warning/all-episode-performance-1.jpeg) |
 
 
+## Final Fixes
+
+
+
 
 
 
