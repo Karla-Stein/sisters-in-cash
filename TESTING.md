@@ -172,9 +172,9 @@ The tables below outline the main warnings I encountered and how I addressed eac
 | Reduce unused CSS | The unused CSS comes from Bootstrap and Font Awesome, which are included via CDN for convenience and development speed. While not all styles are used, the overall impact on performance is minimal. Since the site consistently achieves high Lighthouse scores, I decided to take no further action. | ![screenshot](documentation/lighthouse/lighthouse-warning/all-episode-performance-1.jpeg) |
 
 
-## Final Fixes
+## Tidy Up
 
-As a final step before submission, I revalidated the HTML and CSS to ensure that all recent code changes maintained compliance with best practices and accessibility standards. I also completed a last round of tidy-ups.
+As a final step before submission, I revalidated the HTML and CSS Javascript to ensure that all recent code changes maintained compliance with best practices and accessibility standards. I also completed a last round of tidy-ups.
 Following fixes were made:
 
 - Labeled all implemented or borrowed code for clarity and attribution
@@ -182,6 +182,7 @@ Following fixes were made:
 - Fixed broken navigation links on the 404 and success pages
 - Updated content requirements in README to match project expectations
 - Refined the user flow section in the README to clearly demonstrate the step-by-step journey a user takes when navigating the site.
+- Added target and rel to the social links on the episodes page.
 
 > [!IMPORTANT]  
 > There are no remaining bugs that I am aware of, though, even after thorough testing, I cannot rule out the possibility that a minor issue may still exist under specific conditions.
