@@ -183,6 +183,7 @@ Following fixes were made:
 - Updated content requirements in README to match project expectations
 - Refined the user flow section in the README to clearly demonstrate the step-by-step journey a user takes when navigating the site.
 - Added target and rel to the social links on the episodes page.
+- Added target and rel to community button.
 
 > [!IMPORTANT]  
 > There are no remaining bugs that I am aware of, though, even after thorough testing, I cannot rule out the possibility that a minor issue may still exist under specific conditions.
