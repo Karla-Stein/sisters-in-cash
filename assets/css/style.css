@@ -84,7 +84,7 @@ html {
 #hero{
   height: 30vh;
   width: 100%;
-  background: url("../images/matt-botsford-OKLqGsCT8qs-unsplash-resize.webp") no-repeat center center/cover;
+  background: url("../images/hero-image.webp") no-repeat center center/cover;
   position: relative;
 }
 
@@ -186,6 +186,6 @@ html {
 
 @media screen and (max-width: 576px) {
  #hero{
-   background: url("../images/matt-botsford-mobile.webp") no-repeat center center/cover;;
+   background: url("../images/hero-image-mobile.webp") no-repeat center center/cover;;
  }
 }
