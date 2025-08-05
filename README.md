@@ -81,6 +81,7 @@ insights, and access to a peer-driven community.
 3. Navigates to the All Episodes page - listens to content covering content-creation, -protection, and -monetization topics.
 4. Visits the Events section - checks upcoming talks or collaborations.
 5. Goes to the Guest or Sponsor form - submits application to be featured or partner with the podcast.
+6. User receives a confirmation message after successful submission.
 
 
 #### 4. Skeleton
