@@ -371,7 +371,7 @@ All podcast content is original and used with full permission from the host and 
 Below is a table with all source links to relevant podacst episodes.
 
 
-| Source | Episode Name |
+| Source | Media |
 | --- | --- |
 | [Spotify](https://open.spotify.com/episode/2d1d9K4x7T2SqPZiy53vU0?si=74f7b70c2ded4064) | "Content Recycling Secrets"| 
 | [Spotify](https://open.spotify.com/episode/5dtgKP8oCD0RJyx0RKAoAF?si=6e5a2f7a8f764a03) | "Social media safety and ai tools for adult content creator"| 
