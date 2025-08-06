@@ -192,7 +192,7 @@ The tables below outline the main warnings I encountered and how I addressed eac
 
 ## Tidy Up
 
-As a final step before submission, I revalidated the HTML and CSS Javascript to ensure that all recent code changes maintained compliance with best practices and accessibility standards. I also completed a last round of tidy-ups.
+As a final step before submission, I revalidated the HTML, CSS and Javascript to ensure that all recent code changes maintained compliance with best practices and accessibility standards. I also completed a last round of tidy-ups.
 Following fixes were made:
 
 - Labeled all implemented or borrowed code for clarity and attribution
@@ -202,6 +202,7 @@ Following fixes were made:
 - Refined the user flow section in the README to clearly demonstrate the step-by-step journey a user takes when navigating the site.
 - Added target and rel to the social links on the episodes page.
 - Added target and rel to community button.
+- Added tables of contents to README and TESTING files.
 
 > [!IMPORTANT]  
 > There are no remaining bugs that I am aware of, though, even after thorough testing, I cannot rule out the possibility that a minor issue may still exist under specific conditions.
