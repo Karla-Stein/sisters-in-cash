@@ -25,7 +25,34 @@ Although the project is still in its early stages, the long-term goal is to grow
 
 source: [sisters-in-cash amiresponsive](https://ui.dev/amiresponsive?url=https://karla-stein.github.io/sisters-in-cash)
 
+## Table of Contents
 
+1. [UX](#ux)
+   - [The 5 Planes of UX](#the-5-planes-of-ux)
+   - [Strategy](#1-strategy)
+   - [Scope](#2-scope)
+   - [Structure](#3-structure)
+   - [Skeleton](#4-skeleton)
+   - [Surface](#5-surface)
+2. [User Stories](#user-stories)
+3. [Features](#features)
+   - [Existing Features](#existing-features)
+   - [Future Features](#future-features)
+4. [Tools & Technology](#tools--technology)
+5. [Agile Development Process](#agile-development-process)
+   - [GitHub Projects](#github-projects)
+   - [GitHub Issues](#github-issues)
+   - [MoSCoW Prioritization](#moscow-prioritization)
+6. [Testing](#testing)
+7. [Deployment](#deployment)
+   - [GitHub Pages](#github-pages)
+   - [Local Development](#local-development)
+   - [Local VS Deployment](#local-vs-deployment)
+8. [Credits](#credits)
+   - [Content](#content)
+   - [Media](#media)
+   - [Acknowledgements](#acknowledgements)
+   
 ## UX
 
 ### The 5 Planes of UX
