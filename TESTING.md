@@ -2,6 +2,24 @@
 
 > **Note:** Return to the [README](README.md) for full project context.
 
+## 📋 Table of Contents
+
+- [Code Validation](#code-validation)
+  - [HTML](#html)
+  - [CSS](#css)
+  - [JavaScript](#javascript)
+- [Responsiveness](#responsiveness)
+- [Browser Compatibility](#browser-compatibility)
+- [Lighthouse Audit](#lighthouse-audit)
+- [Defensive Programming](#defensive-programming)
+  - [Sponsor Form](#sponsor-form)
+  - [Be Our Guest Form](#be-our-guest-form)
+- [User Story Testing](#user-story-testing)
+- [Warnings](#warnings)
+  - [Fixed Warnings](#fixed-warnings)
+  - [Unfixed Warnings](#unfixed-warnings)
+- [Tidy Up](#tidy-up)
+
 ## Code Validation
 
 ### HTML
